@@ -1,15 +1,15 @@
-# 🥞 Title
+# Title
 
 Description
 
-## 🧾 Ingredients
+## Ingredients
 
 -   
 
-## 🍳 Instructions
+## Instructions
 
 1. 
 
-## 🍽 Tips
+## Tips
 
 - 
