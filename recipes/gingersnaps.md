@@ -1,7 +1,7 @@
 # Gingersnaps
 
 Friends and family will gobble up these crispy, spicy gingersnaps straight off the cooling rack.
-*From All You, August 2008*
+
 **Yield:** 60 cookies
 **Cost Per Serving:** \$0.13
 
