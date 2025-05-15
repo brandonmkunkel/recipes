@@ -5,7 +5,7 @@ A quick, creamy, and delicious stovetop mac and cheese made in just one pot. Per
 **Prep time**: 15 minutes  
 **Cook time**: 15 minutes  
 **Total time**: 30 minutes  
-**Servings**: 4
+**Yield**: 4 servings
 
 ## Ingredients
 

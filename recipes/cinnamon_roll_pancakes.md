@@ -5,7 +5,7 @@ A delicious cinnamon roll in the form of a pancake that the whole family will lo
 **Prep time**: 20 mins
 **Cook time**: 5 mins 
 **Total time**: 20 mins
-
+**Yield** 4 servings
 
 ## Ingredients
 

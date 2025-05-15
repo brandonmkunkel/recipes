@@ -7,7 +7,7 @@ A rich and creamy quiche baked in a flaky homemade crust. This base recipe is en
 **Prep time**: 2 hours 40 minutes  
 **Cook time**: 1 hour 20 minutes  
 **Total time**: 4 hours  
-**Servings**: 8
+**Yield**: 8 servings
 
 ## Ingredients
 

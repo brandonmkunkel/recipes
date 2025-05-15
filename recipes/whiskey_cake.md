@@ -7,7 +7,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 **Prep time**: 30 minutes  
 **Cook time**: 40 minutes  
 **Total time**: ~1 hour 10 minutes (plus cooling time)  
-**Servings**: 9
+**Yield**: 9 servings
 
 ## Whiskey Cake
 

@@ -5,7 +5,7 @@ Classic snickerdoodle cookies with a soft, chewy center and a crisp cinnamon-sug
 **Prep time**: 15 minutes  
 **Cook time**: 10–12 minutes  
 **Total time**: 25–30 minutes  
-**Servings**: About 24 cookies
+**Yield**: About 24 cookies
 
 ## Ingredients
 

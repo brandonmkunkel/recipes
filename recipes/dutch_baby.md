@@ -5,7 +5,7 @@ A large, fluffy oven-baked pancake that's quick to prepare and perfect for any t
 **Prep time**: 5 minutes  
 **Cook time**: 35 minutes  
 **Total time**: 40 minutes  
-**Servings**: 3 to 4
+**Yield**: 3 to 4 servings
 
 ## Ingredients
 
