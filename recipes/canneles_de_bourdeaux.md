@@ -2,6 +2,8 @@
 
 A classic French pastry from Bordeaux, canelés have a rich, custardy interior and a thin, caramelized shell. This version uses traditional copper molds coated in beeswax for that perfect glossy finish.
 
+[source](https://tasteofartisan.com/canele)
+
 **Prep time**: 30 minutes  
 **Cook time**: 1 hour  
 **Refrigeration time**: 1–2 days  

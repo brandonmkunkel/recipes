@@ -2,6 +2,8 @@
 
 This deep-gold, light-textured bread is traditionally served on the Jewish Sabbath and holidays. Smooth and supple, the dough is perfect for braiding—whether you choose a simple three-strand, elegant four-strand, or striking six-strand braid.
 
+[source](https://www.kingarthurbaking.com/recipes/classic-challah-recipe)
+
 **Prep time**: 20 minutes  
 **Cook time**: 30 minutes  
 **Total time**: 3 hours 50 minutes  
