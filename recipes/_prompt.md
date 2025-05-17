@@ -1,26 +1,7 @@
-# Title
+I want you to take this recipe: {source}
 
-Description
+and convert it into the format below. Make sure to:
+- Make no changes to the recipe
+- Use the same ingredients, only offer substitutions in the modifications section
 
-[source]()
-
-**Prep time**: 
-**Cook time**:  
-**Total time**: 
-**Yield**: 
-
-## Ingredients
-
--   
-
-## Instructions
-
-1. 
-
-## Tips
-
-- 
-
-## Modifications
-
--
+{template}
