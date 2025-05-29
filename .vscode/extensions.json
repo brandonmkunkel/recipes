@@ -1,8 +1,8 @@
 {
     "recommendations": [
         "astro-build.astro-vscode",
-        "ms-vscode.makefile-tools",
-        
+        "esbenp.prettier-vscode",
+        "github.vscode-github-actions",
     ],
 
     // List of extensions recommended by VS Code that should not be recommended for users of this workspace.
