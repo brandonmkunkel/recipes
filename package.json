@@ -1,0 +1,18 @@
+{
+  "name": "recipes",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Repo to build static recipes site",
+  "repository": "https://github.com/brandonmkunkel/recipes.git",
+  "author": "Brandon Kunkel <38381956+brandonmkunkel@users.noreply.github.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.8.1"
+  }
+}

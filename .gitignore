@@ -173,47 +173,30 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+##
+# Astro git ignore
+##
+# build output
+dist/
 
-######
-# React gitignore
-######
+# generated types
+.astro/
+
 # dependencies
-/node_modules
-
-# production
-/build
-
-# misc
-.DS_Store
-.env
-.env.local
-.env.development.local
-.env.test.local
-.env.production.local
-
-# testing
-/coverage
+node_modules/
 
 # logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
 
-# IDEs and editors
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
 .idea/
-*.sublime-workspace
-*.sublime-project
-
-# OS
-Thumbs.db
-ehthumbs.db
-
-# Optional: macOS specific
-*.log
-
-# Optional: Windows specific
-*.bak
-*.tmp
-
-# Optional: Typescript cache
-*.tsbuildinfo
