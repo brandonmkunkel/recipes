@@ -12,9 +12,9 @@ Kids love it, grown-ups love it — this moist, spiced pumpkin bread is hard to 
 ## Ingredients
 
 - 2 cups all-purpose flour, spooned and leveled  
-- ½ teaspoon salt  
+- 1/2 teaspoon salt  
 - 1 teaspoon baking soda  
-- ½ teaspoon baking powder  
+- 1/2 teaspoon baking powder  
 - 1 teaspoon ground cloves  
 - 1 teaspoon ground cinnamon  
 - 1 teaspoon ground nutmeg  

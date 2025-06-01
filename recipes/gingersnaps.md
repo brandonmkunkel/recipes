@@ -6,17 +6,17 @@ Friends and family will gobble up these crispy, spicy gingersnaps straight off t
 
 ## Ingredients
 
-* 2 1/4 cups all-purpose flour
-* 1 1/2 teaspoons baking sodagingersnaps.md
-* 1 1/4 teaspoons ground ginger
-* 1/2 teaspoon salt
-* 1/2 teaspoon cinnamon
-* 1/8 teaspoon ground cloves
-* 16 tablespoons (2 sticks) unsalted butter, at room temperature
-* 1 1/2 cups sugar
-* 1/4 cup unsulphured (mild) molasses
-* 1 large egg
-* 1 teaspoon vanilla extract
+- 2 1/4 cups all-purpose flour
+- 1 1/2 teaspoons baking sodagingersnaps.md
+- 1 1/4 teaspoons ground ginger
+- 1/2 teaspoon salt
+- 1/2 teaspoon cinnamon
+- 1/8 teaspoon ground cloves
+- 16 tablespoons (2 sticks) unsalted butter, at room temperature
+- 1 1/2 cups sugar
+- 1/4 cup unsulphured (mild) molasses
+- 1 large egg
+- 1 teaspoon vanilla extract
 
 ## Instructions
 
@@ -33,6 +33,6 @@ Friends and family will gobble up these crispy, spicy gingersnaps straight off t
 
 ## Tips
 
-* For chewier cookies, slightly underbake them and allow them to finish setting on the baking sheet.
-* Make sure the butter is truly at room temperature to ensure even mixing.
-* Dough can be made in advance and refrigerated overnight for even deeper flavor.
+- For chewier cookies, slightly underbake them and allow them to finish setting on the baking sheet.
+- Make sure the butter is truly at room temperature to ensure even mixing.
+- Dough can be made in advance and refrigerated overnight for even deeper flavor.

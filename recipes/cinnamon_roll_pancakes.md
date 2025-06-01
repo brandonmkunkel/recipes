@@ -9,18 +9,18 @@ A delicious cinnamon roll in the form of a pancake that the whole family will lo
 
 ## Ingredients
 
-**Cinnamon Filling:**
+### Cinnamon Filling
 - 4 tablespoons unsalted butter, melted  
 - 1⁄4 cup + 2 tablespoons packed light brown sugar  
 - 1⁄2 tablespoon ground cinnamon  
 
-**Cream Cheese Glaze:**
+### Cream Cheese Glaze
 - 4 tablespoons unsalted butter  
 - 2 ounces cream cheese, at room temperature  
 - 3⁄4 cup powdered sugar  
 - 1⁄2 teaspoon vanilla extract  
 
-**Pancakes:**
+### Pancakes
 - 1 cup all-purpose flour  
 - 2 teaspoons baking powder  
 - 1⁄2 teaspoon salt  
