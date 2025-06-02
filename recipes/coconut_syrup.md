@@ -5,8 +5,8 @@ This coconut syrup recipe is incredibly easy to make with just a few ingredients
 [https://thefoodcharlatan.com/coconut-syrup-recipe/](https://thefoodcharlatan.com/coconut-syrup-recipe/)
 
 **Prep time**: 0 minutes
-**Cook time**: 5 minutes
-**Total time**: 5 minutes
+**Cook time**: 15 minutes
+**Total time**: 15 minutes
 **Servings**: 8 Servings
 
 ## Ingredients
