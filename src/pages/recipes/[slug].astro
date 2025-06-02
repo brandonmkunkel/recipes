@@ -1,19 +1,18 @@
 ---
-import { getCollection } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content';
+
 import AppBar from '~/components/AppBar.astro';
 import SearchBar from '~/components/SearchBar.astro';
 import Layout from '~/layouts/Layout.astro';
-
-const { slug } = Astro.params;
 
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes');
 
   const pages = recipes.map((recipe) => {
-    
     return {
       params: { slug: recipe.id }, // Define the dynamic slug here
       props: {
+        slug: recipe.id,
         title: recipe.data.title ?? recipe.id,
         text: recipe.body,
       },
@@ -23,7 +22,15 @@ export async function getStaticPaths() {
   return pages
 }
 
-const { title, text } = Astro.props;
+const { title, text, slug } = Astro.props;
+
+const entry = await getEntry('recipes', slug);
+if (!entry) {
+  // Handle Error, for example:
+  throw new Error('Could not find blog post 1');
+}
+const { Content, headings } = await render(entry);
+
 ---
 
 <head>
@@ -34,9 +41,28 @@ const { title, text } = Astro.props;
   <AppBar />
 	<SearchBar />
 	
-  <body>
-    <h1>{title}</h1>
-    <p>{text}</p>
-  </body>
+  <article>
+    <body>
+      <Content />
+    </body>
+  </article>
 
 </Layout>
+
+<style>
+  article {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 1rem;
+  }
+
+  h1, h2, h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+
+  p {
+    line-height: 1.6;
+    margin-bottom: 1rem;
+  }
+</style>

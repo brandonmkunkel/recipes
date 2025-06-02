@@ -1,6 +1,5 @@
 ---
 import SearchBar from '~/components/SearchBar.astro';
-import Welcome from '../components/Welcome.astro';
 import Layout from '../layouts/Layout.astro';
 import AppBar from '~/components/AppBar.astro';
 
@@ -11,13 +10,10 @@ const posts = await getCollection('recipes');
 <Layout>
   <AppBar />
 	<SearchBar />
-	
-	<Welcome />
-	
 
 	<ul>
 		{posts.map(post => (
-		<li><a href={`/${post.id}`}>{post.data}</a></li>
+		<li><a href={`/recipes/${post.id}`}>{post.data}</a></li>
 		))}
 	</ul>
 
