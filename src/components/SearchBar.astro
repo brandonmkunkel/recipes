@@ -12,13 +12,9 @@ import Search from "astro-pagefind/components/Search";
   <body>
     <header>
       <nav>
-        <Search id="search1" className="pagefind-ui yellow" uiOptions={{ showImages: false }} />
+        <Search id="search1" className="pagefind-ui" uiOptions={{ showImages: false }} />
       </nav>
     </header>
-    <main>
-      <slot />
-      <Search id="search2" className="pagefind-ui red" />
-    </main>
   </body>
 </html>
 <style is:global>

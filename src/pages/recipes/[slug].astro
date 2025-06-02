@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import AppBar from '~/components/AppBar.astro';
+import SearchBar from '~/components/SearchBar.astro';
+import Layout from '~/layouts/Layout.astro';
+
+const { slug } = Astro.params;
+
+export async function getStaticPaths() {
+  const recipes = await getCollection('recipes');
+
+  const pages = recipes.map((recipe) => {
+    
+    return {
+      params: { slug: recipe.id }, // Define the dynamic slug here
+      props: {
+        title: recipe.data.title ?? recipe.id,
+        text: recipe.body,
+      },
+    };
+  });
+
+  return pages
+}
+
+const { title, text } = Astro.props;
+---
+
+<head>
+  <title>{title}</title>
+</head>
+
+<Layout>
+  <AppBar />
+	<SearchBar />
+	
+  <body>
+    <h1>{title}</h1>
+    <p>{text}</p>
+  </body>
+
+</Layout>

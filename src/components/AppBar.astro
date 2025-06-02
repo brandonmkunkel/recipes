@@ -1,0 +1,41 @@
+---
+import { Image } from "astro:assets";
+import logo from "src/assets/astro.svg";
+---
+
+<div class="app-bar">
+  <a href="/">
+    <Image src={logo} alt="Logo" />
+  </a>
+  <nav>
+    <ul>
+      <li><a href="/recipes">Recipes</a></li>
+      <li><a href="/recipes">Recipes</a></li>
+    </ul>
+  </nav>
+</div>
+
+<style>
+  .app-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: white;
+    color: black;
+  }
+
+  nav ul {
+    display: flex;
+    list-style: none;
+  }
+
+  nav ul li {
+    margin-right: 1rem;
+  }
+
+  a {
+    color: white;
+    text-decoration: none;
+  }
+</style>
