@@ -1,0 +1,73 @@
+# Workflow name
+name: Deploy Astro to GitHub Pages
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push events to the main branch
+  push:
+    branches:
+      - main # Change this to your default branch if it's not 'main'
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions for the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Specifies the concurrency group for the deployment
+# This ensures that only one deployment runs at a time
+concurrency:
+  group: 'pages'
+  cancel-in-progress: true
+
+# Define the jobs that will run in this workflow
+jobs:
+  # Job to build the Astro project
+  build:
+    runs-on: ubuntu-latest # Run on the latest Ubuntu runner
+
+    steps:
+      # Step 1: Checkout the repository code
+      - name: Checkout your repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up Node.js environment
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20' # Use Node.js version 20 (or your preferred version)
+          cache: 'npm' # Cache npm dependencies for faster builds
+
+      # Step 3: Install project dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Step 4: Build the Astro project
+      # Ensure your package.json has a "build" script (e.g., "astro build")
+      - name: Build Astro project
+        run: npm run build
+
+      # Step 5: Upload the built site as an artifact
+      # The 'dist' directory is the default output for Astro builds
+      - name: Upload artifact for deployment
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist # Path to your Astro build output directory
+
+  # Job to deploy the built project to GitHub Pages
+  deploy:
+    runs-on: ubuntu-latest # Run on the latest Ubuntu runner
+    needs: build # This job depends on the 'build' job completing successfully
+
+    environment:
+      name: github-pages # Specify the GitHub Pages environment
+      url: ${{ steps.deployment.outputs.page_url }} # Get the URL of the deployed page
+
+    steps:
+      # Step 1: Deploy to GitHub Pages
+      - name: Deploy to GitHub Pages
+        id: deployment # Assign an ID to this step to reference its outputs
+        uses: actions/deploy-pages@v4 # Action to deploy to GitHub Pages
