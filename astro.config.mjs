@@ -5,9 +5,9 @@ import sitemap from '@astrojs/sitemap'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://brandonmkunkel.github.io/recipes',
-  base: 'recipes',
-  trailingSlash: 'never',
+  site: 'https://brandonmkunkel.github.io',
+  base: '/recipes/',
+  trailingSlash: 'ignore',
   integrations: [
     mdx(),
     pagefind(),
