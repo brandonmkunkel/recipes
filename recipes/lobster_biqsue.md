@@ -12,6 +12,7 @@ Decadent Lobster Bisque, smooth and creamy, made with a quick homemade lobster s
 ## Ingredients
 
 **For the Bisque:**
+
 - 4 lobster tails
 - 2 tablespoons butter
 - 1 tablespoon olive oil
@@ -33,6 +34,7 @@ Decadent Lobster Bisque, smooth and creamy, made with a quick homemade lobster s
 - 3/4 - 1 cup heavy cream
 
 **For the Garlic Butter Lobster Meat:**
+
 - 2 tablespoons butter
 - 2 cloves garlic, minced
 - 1 pinch salt, to taste
@@ -42,6 +44,7 @@ Decadent Lobster Bisque, smooth and creamy, made with a quick homemade lobster s
 ## Instructions
 
 **1. Make the Lobster Stock:**
+
 1. Fill a large pot with 5 cups of water and 1 teaspoon of sea salt. Bring to a boil.
 2. Add the lobster tails, cover with a lid, and boil for 5 minutes or until bright red.
 3. Remove lobster tails, reserving the liquid stock in the pot.
@@ -50,6 +53,7 @@ Decadent Lobster Bisque, smooth and creamy, made with a quick homemade lobster s
 6. Remove the lobster shells from the stock and discard them. Set the lobster stock aside.
 
 **2. Make the Bisque:**
+
 1. In a large, heavy-based pot or Dutch oven, heat 2 tablespoons butter and 1 tablespoon olive oil over medium heat.
 2. Add the finely chopped onions, carrots, celery, and fresh thyme and tarragon. Sweat the vegetables for about 5 minutes, until softened.
 3. Season with chicken bouillon powder, salt, cracked pepper, lavender, and cayenne pepper.
@@ -62,11 +66,13 @@ Decadent Lobster Bisque, smooth and creamy, made with a quick homemade lobster s
 10. Return the pot to medium heat. Stir in the heavy cream and bring to a gentle simmer. Do not boil once cream is added.
 
 **3. Make the Garlic Butter Lobster Meat:**
+
 1. In a separate skillet, melt 2 tablespoons butter over medium heat.
 2. Add 2 cloves of minced garlic and sauté for 30 seconds until fragrant.
 3. Add the chopped lobster meat, season with a pinch of salt, pepper, and cayenne to taste. Lightly sauté for 1 minute while stirring occasionally, until the lobster meat is just warmed through.
 
 **4. Serve:**
+
 1. Ladle the hot lobster bisque into bowls.
 2. Top with a generous amount of garlic butter lobster meat.
 3. Garnish with a little extra fresh tarragon, if desired.

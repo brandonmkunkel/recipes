@@ -11,11 +11,11 @@ This coconut syrup recipe is incredibly easy to make with just a few ingredients
 
 ## Ingredients
 
--   13 ounces full-fat coconut milk (not lite)
--   1 tablespoon cornstarch
--   1/2 cup coconut sugar sugar
--   1/2 teaspoon salt (or up to 3/4 teaspoon, to taste)
--   1 teaspoon vanilla extract
+- 13 ounces full-fat coconut milk (not lite)
+- 1 tablespoon cornstarch
+- 1/2 cup coconut sugar sugar
+- 1/2 teaspoon salt (or up to 3/4 teaspoon, to taste)
+- 1 teaspoon vanilla extract
 
 ## Instructions
 
@@ -27,12 +27,12 @@ This coconut syrup recipe is incredibly easy to make with just a few ingredients
 
 ## Tips
 
--   Whisk the cornstarch into the coconut milk *before* turning on the heat to prevent lumps.
--   If you do end up with chunks of cornstarch, you can strain the syrup when it's finished.
--   The syrup will thicken considerably as it cools.
+- Whisk the cornstarch into the coconut milk _before_ turning on the heat to prevent lumps.
+- If you do end up with chunks of cornstarch, you can strain the syrup when it's finished.
+- The syrup will thicken considerably as it cools.
 
 ## Modifications
 
--   **Substitute extracts**: Experiment with different extracts like coconut extract or rum extract for the vanilla.
--   **Sugar alternative**: Use brown or white sugar if you don't have access to coconut sugar
--   **Add more coconut**: If you like the taste and texture of shredded sweetened coconut, you can add about ½ cup of it to the syrup. Toasted coconut or coconut flakes can also be added for extra flavor and texture.
+- **Substitute extracts**: Experiment with different extracts like coconut extract or rum extract for the vanilla.
+- **Sugar alternative**: Use brown or white sugar if you don't have access to coconut sugar
+- **Add more coconut**: If you like the taste and texture of shredded sweetened coconut, you can add about ½ cup of it to the syrup. Toasted coconut or coconut flakes can also be added for extra flavor and texture.

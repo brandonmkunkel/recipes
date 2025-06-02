@@ -9,13 +9,13 @@ Classic snickerdoodle cookies with a soft, chewy center and a crisp cinnamon-sug
 
 ## Ingredients
 
-- 1 cup butter, softened  
-- 1 1/2 cups sugar  
-- 2 eggs  
-- 2 3/4 cups flour  
-- 2 tsp cream of tartar  
-- 1 tsp baking soda  
-- 1/2 tsp salt  
+- 1 cup butter, softened
+- 1 1/2 cups sugar
+- 2 eggs
+- 2 3/4 cups flour
+- 2 tsp cream of tartar
+- 1 tsp baking soda
+- 1/2 tsp salt
 - Cinnamon-sugar mix (for rolling)
 
 ## Instructions
@@ -29,6 +29,7 @@ Classic snickerdoodle cookies with a soft, chewy center and a crisp cinnamon-sug
 7. Remove from oven and let cool on the baking sheet for a few minutes before transferring to a wire rack.
 
 ## Tips
+
 - For a crispier cookie, bake an extra minute or two.
 - Don't overbake—snickerdoodles should be soft in the center.
 - Use parchment paper for easy cleanup and even baking.

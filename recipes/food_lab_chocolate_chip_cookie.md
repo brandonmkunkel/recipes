@@ -7,21 +7,21 @@ These cookies from J. Kenji López-Alt are deeply flavorful with nutty brown but
 **Prep time**: 20 minutes  
 **Cook time**: 30 minutes  
 **Total time**: 1 hour 15 minutes  
-**Servings**: 28 cookies  
+**Servings**: 28 cookies
 
 ## Ingredients
 
-- 8 ounces (2 sticks; 225g) unsalted butter  
-- 1 standard ice cube (about 2 tablespoons; 30mL frozen water)  
-- 10 ounces (about 2 cups; 280g) all-purpose flour  
-- 3/4 teaspoon (3g) baking soda  
-- 2 teaspoons Diamond Crystal kosher salt or 1 teaspoon table salt (4g)  
-- 5 ounces (about 3/4 cup; 140g) granulated sugar  
-- 2 large eggs (100g)  
-- 2 teaspoons (10mL) vanilla extract  
-- 5 ounces (about 1/2 tightly packed cup + 2 tablespoons; 140g) dark brown sugar  
-- 8 ounces (225g) semisweet chocolate, roughly chopped  
-- Coarse sea salt, for garnish  
+- 8 ounces (2 sticks; 225g) unsalted butter
+- 1 standard ice cube (about 2 tablespoons; 30mL frozen water)
+- 10 ounces (about 2 cups; 280g) all-purpose flour
+- 3/4 teaspoon (3g) baking soda
+- 2 teaspoons Diamond Crystal kosher salt or 1 teaspoon table salt (4g)
+- 5 ounces (about 3/4 cup; 140g) granulated sugar
+- 2 large eggs (100g)
+- 2 teaspoons (10mL) vanilla extract
+- 5 ounces (about 1/2 tightly packed cup + 2 tablespoons; 140g) dark brown sugar
+- 8 ounces (225g) semisweet chocolate, roughly chopped
+- Coarse sea salt, for garnish
 
 ## Instructions
 

@@ -12,6 +12,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 ## Whiskey Cake
 
 ### Ingredients
+
 - 2 cups dates, pitted and chopped into ½” pieces
 - 1 tsp baking soda
 - 2 cups boiling hot water
@@ -23,6 +24,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 - 2 tbsp Sugar in the Raw
 
 ### Instructions
+
 1. Place chopped dates, baking soda, and boiling water in a bowl. Let sit 15–20 minutes to soften.
 2. Blend the mixture in a food processor for 2 minutes to form a paste.
 3. In a mixer with a paddle attachment, cream the butter and granulated sugar on medium speed until smooth.
@@ -34,6 +36,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 9. Cool completely, then wrap in plastic or serve immediately.
 
 ### To Serve:
+
 1. Cut the cooled cake into 9 pieces.
 2. Poke several holes in each piece.
 3. Pour 2 oz warm toffee sauce over each piece.
@@ -45,6 +48,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 ## Toffee Sauce
 
 ### Ingredients:
+
 - ¼ lb unsalted butter
 - 1 lb brown sugar
 - 2 cups heavy cream
@@ -52,6 +56,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 - 1 tbsp vanilla extract
 
 ### Instructions:
+
 1. Melt butter in a heavy-bottomed saucepan over medium heat.
 2. Add brown sugar and cook over medium-high heat for 10 minutes, stirring occasionally.
 3. Add heavy cream and cook for another 7 minutes, stirring occasionally.
@@ -63,6 +68,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 ## Whiskey Sauce
 
 ### Ingredients:
+
 - 1 cup heavy cream
 - 2 tbsp granulated sugar (for cream)
 - ½ vanilla bean, split
@@ -72,6 +78,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 - 1 tsp Irish whiskey
 
 ### Instructions:
+
 1. In a saucepot, bring cream, 2 tbsp sugar, and vanilla bean to a simmer.
 2. In a mixing bowl, whisk yolks with remaining 2 tbsp sugar until foamy.
 3. Temper half the hot cream into the yolk mixture, then return everything to the pot.
@@ -85,6 +92,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 ## Spiced Pecans
 
 ### Ingredients:
+
 - 1 lb pecan halves
 - 2 tsp water
 - ¾ cup maple syrup
@@ -93,6 +101,7 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 - ½ tsp cayenne pepper
 
 ### Instructions:
+
 1. Mix all ingredients in a bowl.
 2. Spread on a cookie sheet and toast at 350°F for 10–12 minutes.
 3. Immediately scrape off the pan to prevent sticking.
@@ -103,10 +112,12 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 ## Whipped Cream
 
 ### Ingredients:
+
 - ½ quart heavy cream
 - ½ cup granulated sugar
 - 1 tsp vanilla extract
 
 ### Instructions:
+
 1. Whip all ingredients in a stand mixer until stiff peaks form.
 2. Transfer to a container and refrigerate until ready to use.

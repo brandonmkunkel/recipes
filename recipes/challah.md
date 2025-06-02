@@ -12,18 +12,20 @@ This deep-gold, light-textured bread is traditionally served on the Jewish Sabba
 ## Ingredients
 
 ### Dough
-- 4 to 4 1/4 cups (480g to 510g) King Arthur Unbleached All-Purpose Flour  
-- 3/4 cup (170g) lukewarm water  
-- 6 tablespoons (74g) vegetable oil  
-- 3 tablespoons (63g) honey  
-- 2 large eggs  
-- 1 large egg yolk (reserve the white for topping)  
-- 1 1/2 teaspoons (9g) table salt  
-- 4 teaspoons (12g) instant yeast  
+
+- 4 to 4 1/4 cups (480g to 510g) King Arthur Unbleached All-Purpose Flour
+- 3/4 cup (170g) lukewarm water
+- 6 tablespoons (74g) vegetable oil
+- 3 tablespoons (63g) honey
+- 2 large eggs
+- 1 large egg yolk (reserve the white for topping)
+- 1 1/2 teaspoons (9g) table salt
+- 4 teaspoons (12g) instant yeast
 
 ### Topping
-- 1 large egg white (from above), beaten with 1 tablespoon cold water  
-- Poppy seeds or sesame seeds (optional)  
+
+- 1 large egg white (from above), beaten with 1 tablespoon cold water
+- Poppy seeds or sesame seeds (optional)
 
 ## Instructions
 

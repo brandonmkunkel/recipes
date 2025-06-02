@@ -13,25 +13,25 @@ A flavorful and spicy Thai stir-fry noodle dish made with wide rice noodles, fre
 
 - 8 oz wide rice noodles
 - 2 Tbsp sesame oil (or canola)
-- 2 shallots , chopped
-- 2 carrots , thinly sliced
-- 1 large chicken breast , chopped (or shrimp or tofu)
-- 3 large cloves of garlic , minced
+- 2 shallots, chopped
+- 2 carrots, thinly sliced
+- 1 lb chicken breast
+- 3 large cloves of garlic, minced
 - 1/2 teaspoon fresh minced ginger
-- 1 zucchini , thinly sliced
-- 1 green bell pepper , thinly sliced
-- 2 green onions , chopped
-- 1 roma tomatoes , sliced
-- 1 cup fresh Thai Holy Basil leaves (or substitute regular basil) , roughly chopped
+- 1 zucchini, thinly sliced
+- 1 green bell pepper, thinly sliced
+- 2 green onions, chopped
+- 1 roma tomatoes, sliced
+- 1 cup fresh Thai basil leaves, roughly chopped
 
 ### For the sauce:
+
 - 3 Tbsp oyster sauce
 - 1/3 cup low sodium soy sauce
 - 2 teaspoons fish sauce
 - 2 teaspoons brown sugar
 - 2 Tbsp water
-- 1 teaspoon Thai red chili paste , more or less, to taste (or substitute sriracha or crushed red pepper flakes)
-
+- 1 teaspoon Thai red chili paste, to taste (or substitute sriracha or crushed red pepper flakes)
 
 ## Instructions
 
@@ -43,14 +43,14 @@ A flavorful and spicy Thai stir-fry noodle dish made with wide rice noodles, fre
 
 ## Tips
 
-- Use fresh Thai basil for the most authentic flavor.  
-- Prepare all ingredients before starting — the dish comes together quickly.  
-- Adjust spice level by increasing or decreasing the amount of Thai chilies and chili garlic sauce.  
+- Use fresh Thai basil for the most authentic flavor.
+- Cut and prepare all ingredients before starting, the dish comes together quickly.
+- Adjust spice level by increasing or decreasing the amount of Thai chilies and chili garlic sauce.
 
 ## Modifications
 
-- Substitute tofu, shrimp, or beef for chicken.  
-- Use sweet basil if Thai basil is unavailable.  
-- Substitute red pepper flakes for Thai chilies.  
-- Use tamari or coconut aminos in place of soy sauce for a gluten-free option.  
+- Substitute tofu, shrimp, or beef for chicken.
+- Use sweet basil if Thai basil is unavailable.
+- Substitute jalapeno pepper or red pepper flakes for Thai chilies.
+- Use tamari or coconut aminos in place of soy sauce for a gluten-free option.
 - Add additional vegetables such as carrots, mushrooms, or snap peas.

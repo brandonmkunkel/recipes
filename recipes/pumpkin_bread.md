@@ -7,21 +7,21 @@ Kids love it, grown-ups love it — this moist, spiced pumpkin bread is hard to 
 **Prep time**: 20 minutes  
 **Cook time**: 65 minutes  
 **Total time**: 1 hour 30 minutes  
-**Servings**: 2 loaves  
+**Servings**: 2 loaves
 
 ## Ingredients
 
-- 2 cups all-purpose flour, spooned and leveled  
-- 1/2 teaspoon salt  
-- 1 teaspoon baking soda  
-- 1/2 teaspoon baking powder  
-- 1 teaspoon ground cloves  
-- 1 teaspoon ground cinnamon  
-- 1 teaspoon ground nutmeg  
-- 1½ sticks (¾ cup) unsalted butter, softened  
-- 2 cups sugar  
-- 2 large eggs  
-- 1 (15-oz) can 100% pure pumpkin (such as Libby’s)  
+- 2 cups all-purpose flour, spooned and leveled
+- 1/2 teaspoon salt
+- 1 teaspoon baking soda
+- 1/2 teaspoon baking powder
+- 1 teaspoon ground cloves
+- 1 teaspoon ground cinnamon
+- 1 teaspoon ground nutmeg
+- 1½ sticks (¾ cup) unsalted butter, softened
+- 2 cups sugar
+- 2 large eggs
+- 1 (15-oz) can 100% pure pumpkin (such as Libby’s)
 
 ## Instructions
 

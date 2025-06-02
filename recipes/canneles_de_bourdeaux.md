@@ -13,6 +13,7 @@ A classic French pastry from Bordeaux, canelés have a rich, custardy interior a
 ## Ingredients
 
 ### Batter:
+
 - 2 vanilla beans (preferably Madagascan)
 - 500 ml cold milk
 - 200 g cane sugar (use 250 g for a more traditional sweetness)
@@ -23,18 +24,21 @@ A classic French pastry from Bordeaux, canelés have a rich, custardy interior a
 - 4 tbsp dark rum
 
 ### Mold Coating:
+
 - 40 g beeswax
 - 60 g butter
 
 ## Instructions
 
 ### Preparing the Molds (First Time Use):
+
 1. Clean new copper molds.
 2. Coat with butter and place in a 250°C (500°F) oven for 20 minutes.
 3. Remove, wipe clean with a paper towel while hot, and allow to cool.
 4. Never wash molds with water—wipe with a dry cloth after each use.
 
 ### Making the Batter:
+
 1. Slit vanilla beans lengthwise and scrape out the seeds.
 2. In a saucepan, heat milk with vanilla seeds and pods. Bring to a gentle simmer, then remove from heat and let steep for 2 minutes.
 3. In a mixing bowl, whisk together sugar, eggs, and yolks.
@@ -46,6 +50,7 @@ A classic French pastry from Bordeaux, canelés have a rich, custardy interior a
 9. Refrigerate the batter for at least 24 hours (48 hours preferred) to improve flavor and texture. Stir vigorously for 2 minutes before each use.
 
 ### Coating the Molds:
+
 1. Melt 40 g beeswax and 60 g butter together (microwave for ~1 minute 45 seconds until it just starts to boil).
 2. Warm molds until just warm to the touch.
 3. Quickly pour wax mixture into each mold to the top, then immediately pour out into the next mold or container.
@@ -53,6 +58,7 @@ A classic French pastry from Bordeaux, canelés have a rich, custardy interior a
 5. Chill molds in freezer or fridge until ready to bake.
 
 ### Baking:
+
 1. Preheat oven to 550°F (290°C).
 2. Fill molds with batter up to 1 cm (3/8 inch) from the top.
 3. Place molds on a foil-lined baking sheet and bake at 550°F for 10 minutes.
@@ -61,6 +67,7 @@ A classic French pastry from Bordeaux, canelés have a rich, custardy interior a
 6. Let cool at room temperature for at least 2 hours.
 
 ### Serving:
+
 - Canelés are best eaten the day they are baked.
 
 ## Tips
