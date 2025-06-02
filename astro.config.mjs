@@ -5,7 +5,7 @@ import sitemap from '@astrojs/sitemap'
 
 // https://astro.build/config
 export default defineConfig({
-  // site: 'https://stargazers.club', // TODO replace with URL when ready
+  site: 'https://brandonmkunkel.github.io/recipes',
   integrations: [
     mdx(),
     pagefind(),
