@@ -4,22 +4,22 @@ Description
 
 [source]()
 
-**Prep time**: 
+**Prep time**:
 **Cook time**:  
-**Total time**: 
-**Servings**: 
+**Total time**:
+**Servings**:
 
 ## Ingredients
 
--   
+-
 
 ## Instructions
 
-1. 
+1.
 
 ## Tips
 
-- 
+-
 
 ## Modifications
 

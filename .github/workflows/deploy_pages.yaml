@@ -20,7 +20,7 @@ permissions:
 # Specifies the concurrency group for the deployment
 # This ensures that only one deployment runs at a time
 concurrency:
-  group: 'pages'
+  group: "pages"
   cancel-in-progress: true
 
 # Define the jobs that will run in this workflow
@@ -38,8 +38,8 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '24'
-          cache: 'yarn'
+          node-version: "24"
+          cache: "yarn"
 
       # Step 3: Install project dependencies using Yarn
       - name: Install dependencies
