@@ -1,13 +1,13 @@
-import { defineConfig } from "astro/config";
-import mdx from "@astrojs/mdx";
-import pagefind from "astro-pagefind";
-import sitemap from "@astrojs/sitemap";
+import { defineConfig } from 'astro/config'
+import mdx from '@astrojs/mdx'
+import pagefind from 'astro-pagefind'
+import sitemap from '@astrojs/sitemap'
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://brandonmkunkel.github.io",
-  base: "/recipes/",
-  trailingSlash: "ignore",
+  site: 'https://brandonmkunkel.github.io',
+  base: '/recipes/',
+  trailingSlash: 'ignore',
   integrations: [
     mdx(),
     pagefind(),
@@ -15,4 +15,4 @@ export default defineConfig({
       filter: (page) => true,
     }),
   ],
-});
+})
