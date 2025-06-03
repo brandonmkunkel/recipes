@@ -8,7 +8,7 @@ import { glob, file } from 'astro/loaders'
 const recipes = defineCollection({
   // `loader` can accept an array of multiple patterns as well as string patterns
   // Load all markdown files in the space-probes directory, except for those that start with "voyager-"
-  loader: glob({ pattern: ['*.md'], base: 'recipes' }),
+  loader: glob({ pattern: ['**/*.md'], base: 'recipes' }),
   schema: z.object({
     // title: z.string(),
     // tags: z.string(),
