@@ -46,7 +46,7 @@ The ultimate Vegan Lentil Shepherd's Pie featuring rich, flavourful, saucy lenti
 
 ## Tips
 
-- Place the dish on a baking tray to protect the bottom of your oven in case of any leaks.
+- Place the dish on a baking sheet to protect the bottom of your oven in case of any leaks.
 
 ## Modifications
 
