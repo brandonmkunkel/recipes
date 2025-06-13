@@ -4,6 +4,7 @@ import { getCollection, getEntry, render } from 'astro:content';
 import AppBar from '~/components/AppBar.astro';
 import SearchBar from '~/components/SearchBar.astro';
 import Layout from '~/layouts/Layout.astro';
+import Recipe from '~/components/Recipe.astro';
 
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes');
@@ -41,11 +42,9 @@ const { Content, headings } = await render(entry);
   <AppBar />
 	<SearchBar />
 	
-  <article>
-    <body>
-      <Content />
-    </body>
-  </article>
+  <Recipe>
+    <Content />
+  </Recipe>
 
 </Layout>
 
