@@ -3,7 +3,7 @@ import { Image } from "astro:assets";
 import logo from "src/assets/astro.svg";
 ---
 
-<div class="app-bar">
+<header class="header">
   <a href="/recipes/">
     <Image src={logo} alt="Logo" />
   </a>
@@ -15,7 +15,7 @@ import logo from "src/assets/astro.svg";
 </div>
 
 <style>
-  .app-bar {
+  .header {
     display: flex;
     justify-content: space-between;
     align-items: center;

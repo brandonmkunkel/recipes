@@ -1,14 +1,14 @@
 ---
 import SearchBar from '~/components/SearchBar.astro';
 import Layout from '../layouts/Layout.astro';
-import AppBar from '~/components/AppBar.astro';
+import Header from '~/components/Header.astro';
 
 import { getCollection } from 'astro:content';
 const recipes = await getCollection('recipes');
 ---
 
 <Layout>
-  <AppBar />
+  <Header />
 	<SearchBar />
 
 	<ul>

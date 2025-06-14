@@ -1,7 +1,7 @@
 ---
 import { getCollection, getEntry, render } from 'astro:content';
 
-import AppBar from '~/components/AppBar.astro';
+import Header from '~/components/Header.astro';
 import SearchBar from '~/components/SearchBar.astro';
 import Layout from '~/layouts/Layout.astro';
 import Recipe from '~/components/Recipe.astro';
@@ -39,7 +39,7 @@ const { Content, headings } = await render(entry);
 </head>
 
 <Layout>
-  <AppBar />
+  <Header />
 	<SearchBar />
 	
   <Recipe>
