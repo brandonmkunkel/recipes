@@ -11,7 +11,7 @@ An American classic, cinnamon swirled in brioche dough and topped with cream che
 
 **Rolls:**
 - 4 to 4 1/4 cups (480g to 510g) All-Purpose Flour
-- 3/4 cup (170g) lukewarm water
+- 3/4 cup (170g) lukewarm milk
 - 1 stick of butter (115g)
 - 3 tablespoons (63g) honey
 - 2 large eggs
@@ -39,13 +39,14 @@ An American classic, cinnamon swirled in brioche dough and topped with cream che
 5.  Preheat oven to 400 degrees F.
 6.  For the filling, combine the brown sugar and cinnamon in a bowl. Spread the melted butter evenly over the surface of the dough, and then sprinkle the cinnamon and sugar evenly over the surface.
 7.  Working carefully from the top (a 21 inch side), roll the dough down to the bottom edge.
-8.  Cut the rolled dough into 1 3/4 inch slices and place 6 at a time, evenly spaced, in a lightly greased baking pan. Bake for 10-20 minutes, or until light brown on top.
-9.  While the rolls bake, combine the icing ingredients. Beat with an electric mixer until fluffy.
-10. When the rolls come out of the oven, coat each generously with icing.
+8.  Cut the rolled dough into 1 3/4 inch slices and place 6 at a time, evenly spaced, in a lightly greased baking pan. 
+9.  Let rise for another hour, then bake for 10-20 minutes, or until light brown on top.
+10.  While the rolls bake, combine the icing ingredients. Beat with an electric mixer until fluffy.
+11. When the rolls come out of the oven, coat each generously with icing.
 
 ## Tips
 
-- 
+- Test the temperature of the milk with your finger. If its uncomfortable, then its too hot and should cool down. If the butter and milk are too hot when combined with the yeast, you may kill the yeast and your dough won't rise.
 
 ## Modifications
 
