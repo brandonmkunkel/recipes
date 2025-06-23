@@ -1,6 +1,6 @@
 # Cinnamon Rolls
 
-This recipe is a recreation from Todd Wilbur's book "More Top Secret Recipes".
+An American classic, cinnamon swirled in brioche dough and topped with cream cheese frosting
 
 **Prep time**: 1 hour + (for rising)
 **Cook time**: 10 minutes
