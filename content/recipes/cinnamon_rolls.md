@@ -10,13 +10,13 @@ This recipe is a recreation from Todd Wilbur's book "More Top Secret Recipes".
 ## Ingredients
 
 **Rolls:**
-- 1 1/4 oz. package active dry yeast
-- 1 cup warm milk (105 to 110 degrees F)
-- 1/2 cup granulated sugar
-- 1/2 cup (1 stick) butter, melted
-- 1 tsp salt
-- 2 eggs
-- 4 cups all purpose flour
+- 4 to 4 1/4 cups (480g to 510g) All-Purpose Flour
+- 3/4 cup (170g) lukewarm water
+- 1 stick of butter (115g)
+- 3 tablespoons (63g) honey
+- 2 large eggs
+- 1 1/2 teaspoons (9g) table salt
+- 4 teaspoons (12g) instant yeast
 
 **Filling:**
 - 1 cup packed brown sugar
