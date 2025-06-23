@@ -1,4 +1,4 @@
-# Cinnabon Rolls
+# Cinnamon Rolls
 
 This recipe is a recreation from Todd Wilbur's book "More Top Secret Recipes".
 
