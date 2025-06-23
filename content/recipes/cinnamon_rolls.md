@@ -25,9 +25,9 @@ An American classic, cinnamon swirled in brioche dough and topped with cream che
 
 **Icing:**
 - 1/2 cup (1 stick) butter, softened
-- 1 1/2 cups powdered sugar
-- 1/4 cup (2 oz.) cream cheese
-- 1/2 tsp vanilla extract
+- 1 cups powdered sugar
+- 1 block (8 oz.) cream cheese
+- 1 tsp vanilla extract
 - 1/8 tsp salt
 
 ## Instructions
