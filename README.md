@@ -2,7 +2,13 @@
 
 This repo builds a static site of my favorite recipes.
 
-1. Install Dependencies
+1. Install the Command Line Tools:
+
+```bash
+xcode-select --install
+```
+
+2. Install Dependencies
 
 ```bash
 brew install node
@@ -10,7 +16,7 @@ brew install yarn
 brew install astro
 ```
 
-2. Install packages
+3. Install packages
 
 ```bash
 yarn install
