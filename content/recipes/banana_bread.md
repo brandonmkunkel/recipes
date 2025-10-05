@@ -21,6 +21,7 @@ This banana bread from Cook's Illustrated includes yogurt and walnuts for a scru
 - 2 large eggs, beaten lightly
 - 6 tablespoons unsalted butter, melted and cooled, plus more for the pan
 - 1 teaspoon vanilla extract (or vanilla bean paste)
+- Optional: 1/2 teaspoon freshly grated nutmeg
 
 ## Instructions
 
