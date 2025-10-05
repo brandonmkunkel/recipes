@@ -24,14 +24,18 @@ The ultimate Vegan Lentil Shepherd's Pie featuring rich, flavourful, saucy lenti
 - 1 medium onion, chopped finely
 - 4 cloves garlic, chopped finely
 - 1 large carrot, peeled & diced
-- 2½ teaspoons dried herbs (thyme, rosemary or marjoram all work well, or a combination of them. Mixed Herbs or Italian Mixed Herbs are also fine)
 - 2½ cups / 190 g canned/cooked green or brown lentils, (NOT red lentils)
-- 2 tablespoons arrowroot or cornstarch (cornflour in the UK)
+- 2 tablespoons flour or cornstarch
 - 3 tablespoons tamari or soy sauce, or coconut aminos or liquid aminos
 - 1 cup / 240 mls canned crushed tomatoes or passata (if you only have whole or diced tomatoes just blend them up until smooth)
 - 1 cup / 240 mls mushroom or vegetable stock
-- 1 teaspoon freshly ground black pepper, or to taste
+- 1 teaspoon ground ginger
+- 1 teaspoon turmeric
+- 2 teaspoon cumin
+- 1 teaspoon chili powder
+- 1 teaspoon smoked paprika (or normal paprika if preferred)
 - 1½ teaspoons sea salt, or to taste (reduce as necessary if using table salt)
+- 1 teaspoon freshly ground black pepper, or to taste
 
 ## Instructions
 
