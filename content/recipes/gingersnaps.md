@@ -7,7 +7,7 @@ Friends and family will gobble up these crispy, spicy gingersnaps straight off t
 ## Ingredients
 
 - 2 1/4 cups all-purpose flour
-- 1 1/2 teaspoons baking sodagingersnaps.md
+- 1 1/2 teaspoons baking soda
 - 1 1/4 teaspoons ground ginger
 - 1/2 teaspoon salt
 - 1/2 teaspoon cinnamon
