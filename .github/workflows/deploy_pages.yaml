@@ -39,7 +39,7 @@ jobs:
 
       - name: Build Astro project
         run: |
-          pnpm install
+          pnpm install --frozen-lockfile
           pnpm build
 
       - name: Upload artifact for deployment
