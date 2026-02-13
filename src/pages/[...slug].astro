@@ -16,6 +16,7 @@ export async function getStaticPaths() {
         slug: recipe.id,
         title: recipe.data.title ?? recipe.id,
         text: recipe.body,
+        tags: recipe.data.tags ?? [],
       },
     };
   });
@@ -23,7 +24,7 @@ export async function getStaticPaths() {
   return pages
 }
 
-const { title, text, slug } = Astro.props;
+const { title, tags, text, slug } = Astro.props;
 
 const entry = await getEntry('recipes', slug);
 if (!entry) {

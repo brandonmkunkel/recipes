@@ -1,5 +1,6 @@
 ---
 title: "No-Knead Focaccia"
+tags: [bread]
 ---
 
 
