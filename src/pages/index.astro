@@ -4,7 +4,9 @@ import Layout from '../layouts/Layout.astro';
 import Header from '~/components/Header.astro';
 
 import { getCollection } from 'astro:content';
-const recipes = await getCollection('recipes');
+const recipes = (await getCollection('recipes')).sort((a, b) => 
+  a.data.title.localeCompare(b.data.title)
+);
 ---
 
 <Layout>
