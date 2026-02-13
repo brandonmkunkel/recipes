@@ -1,8 +1,7 @@
 # Style Guide
 
-Keep formatting consistent. Our rules are defined in our biome.jsonc file, enforced by Biome.
-Run pnpm format to auto-format the entire repo.
-Run pnpm lint to lint the entire repo.
+- Run pnpm format to auto-format the entire repo.
+- Run pnpm lint to lint the entire repo.
 
 # Astro Quick Reference
 

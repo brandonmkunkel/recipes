@@ -32,8 +32,11 @@ jobs:
           node-version: '24'
           cache: 'pnpm'
 
-      - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+      - name: Enable Corepack and prepare pnpm
+        run: |
+          corepack enable
+          corepack prepare pnpm@latest --activate
+          pnpm install --frozen-lockfile
 
       - name: Build Astro project
         run: pnpm build
