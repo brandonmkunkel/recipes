@@ -1,4 +1,7 @@
-# Cinnamon Rolls
+---
+title: "Cinnamon Rolls"
+---
+
 
 An American classic, cinnamon swirled in brioche dough and topped with cream cheese frosting
 

@@ -1,4 +1,7 @@
-# Pumpkin Bread
+---
+title: "Pumpkin Bread"
+---
+
 
 Kids love it, grown-ups love it — this moist, spiced pumpkin bread is hard to beat! Perfect for fall, it yields two loaves with a crisp crust fresh from the oven and a rich, warmly spiced flavor.
 

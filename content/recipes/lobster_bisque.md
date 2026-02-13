@@ -1,4 +1,7 @@
-# Decadent Lobster Bisque
+---
+title: "Decadent Lobster Bisque"
+---
+
 
 Decadent Lobster Bisque, smooth and creamy, made with a quick homemade lobster stock and big chunks of garlic butter lobster meat in every bite.
 

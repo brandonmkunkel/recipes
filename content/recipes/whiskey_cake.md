@@ -1,4 +1,7 @@
-# Chef John Franke's Whiskey Cake
+---
+title: "Chef John Franke's Whiskey Cake"
+---
+
 
 A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced pecans and whipped cream. This signature dessert from Whiskey Cake Kitchen delivers indulgent comfort with every bite.
 

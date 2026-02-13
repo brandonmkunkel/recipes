@@ -1,4 +1,7 @@
-# One Pot Mac and Cheese
+---
+title: "One Pot Mac and Cheese"
+---
+
 
 A quick, creamy, and delicious stovetop mac and cheese made in just one pot. Perfect for a comforting meal with minimal cleanup!
 

@@ -1,4 +1,6 @@
-# Title
+---
+title: "Your Recipe Title"
+---
 
 Description
 

@@ -1,4 +1,7 @@
-# Banana Bread
+---
+title: "Banana Bread"
+---
+
 
 This banana bread from Cook's Illustrated includes yogurt and walnuts for a scrumptiously moist, easy, classic, nutty quick bread. We consider it the best we've ever had.
 

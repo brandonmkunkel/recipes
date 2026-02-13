@@ -1,4 +1,7 @@
-# El Chupacabra
+---
+title: "El Chupacabra"
+---
+
 
 A delightfully smokey berry cocktail
 

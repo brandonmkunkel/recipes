@@ -1,4 +1,7 @@
-# Snickerdoodles
+---
+title: "Snickerdoodles"
+---
+
 
 Classic snickerdoodle cookies with a soft, chewy center and a crisp cinnamon-sugar coating. Perfectly simple and always a crowd-pleaser.
 

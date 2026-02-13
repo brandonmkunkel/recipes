@@ -1,4 +1,7 @@
-# Gingersnaps
+---
+title: "Gingersnaps"
+---
+
 
 Friends and family will gobble up these crispy, spicy gingersnaps straight off the cooling rack.
 

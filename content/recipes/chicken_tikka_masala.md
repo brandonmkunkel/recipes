@@ -1,4 +1,7 @@
-# Chicken Tikka Masala
+---
+title: "Chicken Tikka Masala"
+---
+
 
 A restaurant-quality Chicken Tikka Masala recipe with tender, charred pieces of chicken swimming in an incredible, creamy tomato-based sauce.
 

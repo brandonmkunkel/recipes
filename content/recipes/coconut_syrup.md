@@ -1,4 +1,7 @@
-# Hawaiian Coconut Syrup for Pancakes
+---
+title: "Hawaiian Coconut Syrup for Pancakes"
+---
+
 
 This coconut syrup recipe is incredibly easy to make with just a few ingredients, perfect for drizzling over pancakes, waffles, or even as a fruit dip! It's a delicious alternative to traditional syrups and a definite crowd-pleaser.
 

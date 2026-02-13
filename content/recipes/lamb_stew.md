@@ -1,4 +1,7 @@
-# Middle Eastern Instant Pot Lamb Stew
+---
+title: "Middle Eastern Instant Pot Lamb Stew"
+---
+
 
 Simple & delicious Instant Pot Lamb Stew with chickpeas and fragrant Middle Eastern spices- a fast, flavorful, wholesome meal that can be made in an Instant Pot.
 

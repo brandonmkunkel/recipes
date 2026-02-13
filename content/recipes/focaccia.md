@@ -1,4 +1,7 @@
-# No-Knead Focaccia
+---
+title: "No-Knead Focaccia"
+---
+
 
 You NEED to make this no-knead focaccia. It no bread-making skill and results in a perfectly soft and fluffy, satisfyingly chewy, and light-as-air focaccia. It's designed to be foolproof, with a super quick dough preparation followed by an overnight proof in the fridge, making it accessible for any level of baker.
 

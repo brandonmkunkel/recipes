@@ -1,4 +1,7 @@
-# Cinnamon Roll Pancakes
+---
+title: "Cinnamon Roll Pancakes"
+---
+
 
 A delicious cinnamon roll in the form of a pancake that the whole family will love!
 

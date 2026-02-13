@@ -1,4 +1,7 @@
-# Quiche
+---
+title: "Quiche"
+---
+
 
 A rich and creamy quiche baked in a flaky homemade crust. This base recipe is endlessly customizable with your favorite meats, cheeses, and vegetables, and works beautifully for breakfast, brunch, or dinner.
 
