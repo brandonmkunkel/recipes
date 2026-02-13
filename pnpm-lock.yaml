@@ -15,7 +15,7 @@ importers:
         specifier: ^3.4.0
         version: 3.7.0
       astro:
-        specifier: ^5.8.1
+        specifier: ^5.17.0
         version: 5.17.2(rollup@4.57.1)(typescript@5.9.3)
       astro-pagefind:
         specifier: ^1.8.3
