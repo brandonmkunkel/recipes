@@ -17,7 +17,6 @@ An American classic, cinnamon swirled in brioche dough and topped with cream che
 - 4 to 4 1/4 cups (480g to 510g) All-Purpose Flour
 - 3/4 cup (170g) lukewarm milk
 - 1 stick of butter (115g)
-- 3 tablespoons (63g) honey
 - 2 large eggs
 - 1 1/2 teaspoons (9g) table salt
 - 4 teaspoons (12g) instant yeast
