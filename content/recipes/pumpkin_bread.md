@@ -1,5 +1,5 @@
 ---
-title: "Pumpkin Bread"
+title: 'Pumpkin Bread'
 tags: []
 ---
 

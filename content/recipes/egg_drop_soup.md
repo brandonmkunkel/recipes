@@ -1,5 +1,5 @@
 ---
-title: "Egg Drop Soup"
+title: 'Egg Drop Soup'
 tags: []
 ---
 

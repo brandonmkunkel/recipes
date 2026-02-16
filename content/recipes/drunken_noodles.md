@@ -1,5 +1,5 @@
 ---
-title: "Drunken Noodles (Pad Kee Mao)"
+title: 'Drunken Noodles (Pad Kee Mao)'
 tags: []
 ---
 

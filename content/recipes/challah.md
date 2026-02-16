@@ -1,5 +1,5 @@
 ---
-title: "Classic Challah"
+title: 'Classic Challah'
 tags: []
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "El Chupacabra"
+title: 'El Chupacabra'
 tags: []
 ---
 
@@ -27,7 +27,7 @@ A delightfully smokey berry cocktail
 
 ## Tips
 
-- 
+-
 
 ## Modifications
 

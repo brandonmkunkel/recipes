@@ -1,5 +1,5 @@
 ---
-title: "Lentil Shepherd’s Pie"
+title: 'Lentil Shepherd’s Pie'
 tags: []
 ---
 

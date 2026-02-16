@@ -1,5 +1,5 @@
 ---
-title: "Chicken Tikka Masala"
+title: 'Chicken Tikka Masala'
 tags: []
 ---
 
@@ -15,6 +15,7 @@ A restaurant-quality Chicken Tikka Masala recipe with tender, charred pieces of 
 ## Ingredients
 
 ### For the Chicken Marinade
+
 - 28 oz (800g) boneless, skinless chicken thighs, cut into bite-sized pieces
 - 1 cup plain yogurt
 - 1 1/2 tablespoons lemon juice
@@ -27,6 +28,7 @@ A restaurant-quality Chicken Tikka Masala recipe with tender, charred pieces of 
 - 1 teaspoon salt
 
 ### For the Sauce
+
 - 2 tablespoons vegetable oil
 - 2 tablespoons butter
 - 2 small onions (or 1 large onion) finely diced
@@ -47,15 +49,18 @@ A restaurant-quality Chicken Tikka Masala recipe with tender, charred pieces of 
 ## Instructions
 
 ### Marinating and Searing
+
 1. In a large bowl, whisk together yogurt, lemon juice, garlic, ginger, garam masala, turmeric, cumin, Kashmiri chili, and salt. Add the chicken and stir to coat. Cover and marinate for at least 30 minutes (preferably overnight for best flavor).
 2. Heat oil in a large skillet or pot over medium-high heat. Working in batches, add the chicken pieces (shake off excess marinade first). Fry until browned on both sides (about 3 minutes per side). Remove from the pan and set aside.
 
 ### Making the Sauce
+
 3. In the same pan, melt the butter. Sauté the onions until soft and golden. Add the garlic and ginger and sauté for 1 minute until fragrant.
 4. Stir in the garam masala, cumin, turmeric, and coriander. Sauté for about 20 seconds until fragrant.
 5. Pour in the tomato puree, Kashmiri chili, and salt. Cover and simmer on low-medium heat for 10-15 minutes, stirring occasionally, until the sauce thickens and turns a deep red color.
 
 ### Combining
+
 6. Stir in the heavy cream and brown sugar.
 7. Add the cooked chicken and its juices back into the pan. Simmer for an additional 8-10 minutes until the chicken is cooked through and the sauce is thick and bubbling.
 8. If the sauce is too thick, stir in the water to reach your desired consistency.

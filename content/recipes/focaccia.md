@@ -1,5 +1,5 @@
 ---
-title: "No-Knead Focaccia"
+title: 'No-Knead Focaccia'
 tags: [bread]
 ---
 

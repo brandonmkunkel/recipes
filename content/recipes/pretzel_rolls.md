@@ -1,5 +1,5 @@
 ---
-title: "Pretzel Rolls"
+title: 'Pretzel Rolls'
 tags: []
 ---
 
@@ -15,6 +15,7 @@ These pretzel rolls are reminiscent of a German soft pretzel but in a more versa
 ## Ingredients
 
 ### Dough
+
 - 3 3/4 cups plus 1 tablespoon white spelt flour, plus more for working the dough
 - One (1/4-ounce) envelope fast-acting yeast
 - 2 teaspoons fine sea salt
@@ -22,15 +23,18 @@ These pretzel rolls are reminiscent of a German soft pretzel but in a more versa
 - 3 tablespoons (1 1/2 oz) unsalted butter, melted and cooled
 
 ### Baking Soda Bath
+
 - 4 1/4 cups cold water
 - 3 tablespoons baking soda
 
 ### Topping
+
 - Coarse sea salt
 
 ## Instructions
 
 ### Make the pretzel rolls dough
+
 1. In the bowl of your stand mixer fit with the dough hook, combine the flour, yeast, and salt.
 2. In a medium bowl, whisk together the 1 1/4 cups warm water and butter. The mixture should be lukewarm.
 3. Add the butter mixture to the flour mixture and mix until well combined, about 2 minutes. The dough shouldn't be sticky.
@@ -38,6 +42,7 @@ These pretzel rolls are reminiscent of a German soft pretzel but in a more versa
 5. Place the dough back in the bowl, cover with a clean kitchen towel, and let rise in a warm place (preferably in a 100°F (35°C) warm oven) until double in size, about 60 minutes.
 
 ### Shape the pretzel rolls
+
 6. When the dough has doubled in size, punch it down, take it out of the bowl, and knead it for about 30 seconds.
 7. Divide the dough into 10 equal portions of roughly 3 ounces (85 grams) each.
 8. Dust your hands with flour, place a portion of dough on the palm of one hand, and with the other hand forming a dome over the dough, roll the dough between your palms until the top is round and firm and you can feel the tension increasing against your hand, about 10 seconds. This creates surface tension and prevents the rolls from deflating and becoming flat.
@@ -45,12 +50,14 @@ These pretzel rolls are reminiscent of a German soft pretzel but in a more versa
 10. Cover the rolls with a towel and let rise in a warm place until puffy, about 20 minutes.
 
 ### Boil the pretzel rolls
+
 11. Preheat the oven to 425°F (220°C). Line 2 baking sheets with parchment paper.
 12. In a large pot wide enough to fit 2 rolls at once, bring the 4 1/4 cups cold water and the baking soda to a boil. Carefully watch the heat as the baking soda-water mixture will foam up; do not let it spill over.
 13. With a slotted ladle or spoon, gently slip 2 rolls into the boiling water and cook for 30 seconds. Flip them and cook for another 30 seconds, being careful to not let them stick to the bottom of the pot.
 14. Transfer the rolls to a wire rack to dry and repeat with the remaining rolls. Once dry, transfer them to the parchment-lined baking sheets.
 
 ### Bake the pretzel rolls
+
 15. Use the tip of a sharp knife to score a cross on top of each roll and sprinkle with coarse sea salt.
 16. Bake the pretzel rolls, 1 sheet at a time, until golden brown, about 16 minutes.
 17. Transfer the rolls to a wire rack to cool slightly. Serve while warm or at room temperature.

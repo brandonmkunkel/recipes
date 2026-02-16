@@ -1,7 +1,8 @@
 ---
-title: "Authentic French Brioche (Le Cordon Bleu Paris)"
+title: 'Authentic French Brioche (Le Cordon Bleu Paris)'
 tags: []
 ---
+
 This "magical" brioche is well-known for its especially light, fluffy, and soft texture, which tastes like a hybrid between bread and cake. This authentic recipe, learned from Le Cordon Bleu Paris, features a rich butter content and a delicate aroma of vanilla and bergamot.
 
 [source](http://www.ricenflour.com/recipe/how-to-make-authentic-french-brioche-recipe-from-le-cordon-bleu-paris-with-video/)
@@ -14,6 +15,7 @@ This "magical" brioche is well-known for its especially light, fluffy, and soft 
 ## Ingredients
 
 ### Brioche Dough
+
 - 250 gram (2 cups) Bread flour
 - 30 gram (2 tablespoons) Caster sugar
 - 5 gram (1 teaspoon) Salt
@@ -24,6 +26,7 @@ This "magical" brioche is well-known for its especially light, fluffy, and soft 
 - 3 ml (1/2 tsp) Bergamot extract
 
 ### Topping and Glaze
+
 - 1 Egg, beaten (for egg wash)
 - Sliced or slivered almonds
 - 45 gram (1/3 cup) Icing sugar
@@ -33,6 +36,7 @@ This "magical" brioche is well-known for its especially light, fluffy, and soft 
 ## Instructions
 
 ### Mixing and Kneading
+
 1. In a mixing bowl, combine bread flour, sugar, and salt. Mix well, then add the instant yeast and mix again.
 2. Create a well in the center of the dry ingredients and add the eggs and extracts (vanilla and bergamot).
 3. Using dough hooks on a stand mixer, knead at low speed for 3–4 minutes until ingredients are incorporated into a dough.
@@ -40,17 +44,20 @@ This "magical" brioche is well-known for its especially light, fluffy, and soft 
 5. Add the softened butter in chunks. Knead at low speed for 3–4 minutes to incorporate, then increase to medium speed for another 3–5 minutes until the dough is smooth and shiny. Do not over-knead.
 
 ### Proofing and Chilling
+
 6. Wrap the dough in parchment paper and let it rest at room temperature (18–23°C / 64–74°F) for 20–30 minutes.
 7. Transfer the wrapped dough to the refrigerator (2–4°C / 35–39°F) and proof for 12–14 hours.
 
 ### Shaping
+
 8. Divide the chilled dough into three equal parts. Cover with plastic wrap and return to the fridge for 20 minutes to relax.
 9. Working with one piece at a time (keeping the others chilled), roll the dough into a 35–40 cm long stick. Repeat with the remaining pieces.
-10. Once all are rolled, return to the first piece and roll it further to approximately 60 cm. Repeat for the others. 
-11. Braid the three strands together. Form the braid into a circle (wreath) and pinch the ends together. 
+10. Once all are rolled, return to the first piece and roll it further to approximately 60 cm. Repeat for the others.
+11. Braid the three strands together. Form the braid into a circle (wreath) and pinch the ends together.
 12. Place on a lined baking tray, cover with a proofing box, and let rise at room temperature (20–24°C / 68–75°F) for 2–3 hours or until doubled in size.
 
 ### Baking and Finishing
+
 13. Preheat the oven to 170°C (338°F) with top and bottom heat.
 14. Gently apply the egg wash over the dough and sprinkle with sliced almonds.
 15. Bake at 170°C (338°F) for about 20 minutes, then lower the temperature to 160°C (320°F) and bake for an additional 10–15 minutes until golden brown.

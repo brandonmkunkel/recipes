@@ -1,5 +1,5 @@
 ---
-title: "Gingersnaps"
+title: 'Gingersnaps'
 tags: []
 ---
 

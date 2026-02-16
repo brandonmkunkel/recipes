@@ -1,5 +1,5 @@
 ---
-title: "Cornbread Bibingka"
+title: 'Cornbread Bibingka'
 tags: []
 ---
 
@@ -15,18 +15,21 @@ The Cornbread Bibingka is a sweet and savory Filipino rice cake. This dish combi
 ## Ingredients
 
 **Dry Ingredients**
+
 - 1 cup rice flour
 - 1 cup yellow cornmeal
 - Pinch of salt
 - 1 tbsp baking powder
 
 **Wet Ingredients**
+
 - 3 eggs
 - 1 cup sugar
 - 3 tbsp unsalted butter, melted
 - 1 (398ml) can coconut milk
 
 **Optional Topping**
+
 - Melted unsalted butter
 - Granulated sugar
 - Shredded cheese

@@ -1,5 +1,5 @@
 ---
-title: "Decadent Lobster Bisque"
+title: 'Decadent Lobster Bisque'
 tags: []
 ---
 

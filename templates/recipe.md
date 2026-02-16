@@ -1,7 +1,8 @@
 ---
-title: "Your Recipe Title"
+title: 'Your Recipe Title'
 tags: []
 ---
+
 Description
 
 [source]()

@@ -1,5 +1,5 @@
 ---
-title: "Liège Belgian Waffles with Pearl Sugar"
+title: 'Liège Belgian Waffles with Pearl Sugar'
 tags: []
 ---
 
@@ -15,11 +15,13 @@ These thick, rich waffles are a classic Belgian street food. Made with a yeast-b
 ## Ingredients
 
 ### Yeast Mixture
+
 - 1 (.25 ounce) package active dry yeast
 - 1 ½ tablespoons white sugar
 - ¾ cup lukewarm milk (no more than 100°F/40°C)
 
 ### Dough
+
 - 3 large eggs
 - 1 cup melted butter
 - 2 teaspoons vanilla extract
@@ -27,15 +29,18 @@ These thick, rich waffles are a classic Belgian street food. Made with a yeast-b
 - ½ teaspoon salt
 
 ### Inclusions
+
 - 1 ½ cups pearl sugar
 
 ## Instructions
 
 ### Activate Yeast
-1. Sprinkle the active dry yeast and white sugar over the warm milk in a small bowl. 
+
+1. Sprinkle the active dry yeast and white sugar over the warm milk in a small bowl.
 2. Let the mixture stand for about 15 minutes until the yeast softens and begins to form a creamy foam.
 
 ### Prepare the Dough
+
 3. Whisk the eggs, melted butter, and vanilla extract into the yeast mixture until evenly blended. Set aside.
 4. In a separate large bowl, stir together the flour and salt. Make a well in the center of the dry ingredients.
 5. Pour the egg and yeast mixture into the well. Stir until a soft dough forms.
@@ -43,10 +48,11 @@ These thick, rich waffles are a classic Belgian street food. Made with a yeast-b
 7. Gently mix the pearl sugar into the risen dough.
 
 ### Cook the Waffles
+
 8. Preheat your waffle iron according to the manufacturer's instructions.
-9. Place a baseball-sized ball of dough onto the preheated waffle iron. 
-10. Cook until the waffles are golden and crisp, about 2 minutes. 
-11. Repeat with the remaining dough. 
+9. Place a baseball-sized ball of dough onto the preheated waffle iron.
+10. Cook until the waffles are golden and crisp, about 2 minutes.
+11. Repeat with the remaining dough.
 12. Allow the waffles to cool for 2 to 3 minutes before serving to let the sugar coating harden.
 
 ## Tips

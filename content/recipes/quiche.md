@@ -1,5 +1,5 @@
 ---
-title: "Quiche"
+title: 'Quiche'
 tags: []
 ---
 

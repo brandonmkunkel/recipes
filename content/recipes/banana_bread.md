@@ -1,5 +1,5 @@
 ---
-title: "Banana Bread"
+title: 'Banana Bread'
 tags: []
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon Rolls"
+title: 'Cinnamon Rolls'
 tags: []
 ---
 
@@ -13,6 +13,7 @@ An American classic, cinnamon swirled in brioche dough and topped with cream che
 ## Ingredients
 
 **Rolls:**
+
 - 4 to 4 1/4 cups (480g to 510g) All-Purpose Flour
 - 3/4 cup (170g) lukewarm milk
 - 1 stick of butter (115g)
@@ -21,11 +22,13 @@ An American classic, cinnamon swirled in brioche dough and topped with cream che
 - 4 teaspoons (12g) instant yeast
 
 **Filling:**
+
 - 1 cup packed brown sugar
 - 3 tbsp cinnamon
 - 1/2 cup (1 stick) butter, melted
 
 **Icing:**
+
 - 1/2 cup (1 stick) butter, softened
 - 1 cups powdered sugar
 - 1 block (8 oz.) cream cheese
@@ -41,9 +44,9 @@ An American classic, cinnamon swirled in brioche dough and topped with cream che
 5.  Preheat oven to 400 degrees F.
 6.  For the filling, combine the brown sugar and cinnamon in a bowl. Spread the melted butter evenly over the surface of the dough, and then sprinkle the cinnamon and sugar evenly over the surface.
 7.  Working carefully from the top (a 21 inch side), roll the dough down to the bottom edge.
-8.  Cut the rolled dough into 1 3/4 inch slices and place 6 at a time, evenly spaced, in a lightly greased baking pan. 
+8.  Cut the rolled dough into 1 3/4 inch slices and place 6 at a time, evenly spaced, in a lightly greased baking pan.
 9.  Let rise for another hour, then bake for 10-20 minutes, or until light brown on top.
-10.  While the rolls bake, combine the icing ingredients. Beat with an electric mixer until fluffy.
+10. While the rolls bake, combine the icing ingredients. Beat with an electric mixer until fluffy.
 11. When the rolls come out of the oven, coat each generously with icing.
 
 ## Tips

@@ -1,5 +1,5 @@
 ---
-title: "Cinnamon Roll Pancakes"
+title: 'Cinnamon Roll Pancakes'
 tags: []
 ---
 

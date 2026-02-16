@@ -1,5 +1,5 @@
 ---
-title: "Cannelés (Canelés) de Bordeaux"
+title: 'Cannelés (Canelés) de Bordeaux'
 tags: []
 ---
 
