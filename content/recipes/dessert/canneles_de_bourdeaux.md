@@ -7,10 +7,10 @@ A classic French pastry from Bordeaux, canelés have a rich, custardy interior a
 
 [source](https://tasteofartisan.com/canele)
 
-**Prep time**: 30 minutes  
-**Cook time**: 1 hour  
-**Refrigeration time**: 1–2 days  
-**Total time**: 1 hour 30 minutes (plus refrigeration)  
+**Prep time**: 30 minutes
+**Cook time**: 1 hour
+**Refrigeration time**: 1–2 days
+**Total time**: 1 hour 30 minutes (plus refrigeration)
 **Yield**: 16 canelés
 
 ## Ingredients

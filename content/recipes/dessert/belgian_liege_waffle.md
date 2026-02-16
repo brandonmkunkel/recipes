@@ -7,9 +7,9 @@ These thick, rich waffles are a classic Belgian street food. Made with a yeast-b
 
 [source](https://www.allrecipes.com/recipe/213251/liege-belgian-waffles-with-pearl-sugar/)
 
-**Prep time**: 20 mins  
-**Cook time**: 45 mins  
-**Total time**: 1 hr 20 mins  
+**Prep time**: 20 mins
+**Cook time**: 45 mins
+**Total time**: 1 hr 20 mins
 **Servings**: 10 waffles
 
 ## Ingredients

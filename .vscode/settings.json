@@ -4,6 +4,7 @@
   "editor.detectIndentation": false,
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.trimTrailingWhitespace": true,
 
   "prettier.semi": false,
   "prettier.singleQuote": true,

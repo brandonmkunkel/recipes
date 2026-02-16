@@ -7,9 +7,9 @@ These cookies from J. Kenji López-Alt are deeply flavorful with nutty brown but
 
 [source](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)
 
-**Prep time**: 20 minutes  
-**Cook time**: 30 minutes  
-**Total time**: 1 hour 15 minutes  
+**Prep time**: 20 minutes
+**Cook time**: 30 minutes
+**Total time**: 1 hour 15 minutes
 **Servings**: 28 cookies
 
 ## Ingredients

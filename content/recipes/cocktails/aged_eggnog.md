@@ -7,9 +7,9 @@ This recipe for aged eggnog blends rum, bourbon, and cognac with dairy and nutme
 
 [source](https://altonbrown.com/recipes/aged-eggnog/)
 
-**Prep time**: 15 minutes  
-**Cook time**: 0 minutes  
-**Total time**: 14 days (minimum aging time)  
+**Prep time**: 15 minutes
+**Cook time**: 0 minutes
+**Total time**: 14 days (minimum aging time)
 **Yield**: 16 servings
 
 ## Ingredients

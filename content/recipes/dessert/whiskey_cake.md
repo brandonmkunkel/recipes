@@ -7,9 +7,9 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 
 [source](https://www.nbcdfw.com/about-nbc-5/community/chef-john-frankes-recipe/1942839/)
 
-**Prep time**: 30 minutes  
-**Cook time**: 40 minutes  
-**Total time**: 1 hour 10 minutes (plus cooling time)  
+**Prep time**: 30 minutes
+**Cook time**: 40 minutes
+**Total time**: 1 hour 10 minutes (plus cooling time)
 **Yield**: 9 servings
 
 ## Whiskey Cake

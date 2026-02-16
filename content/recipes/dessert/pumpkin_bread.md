@@ -7,9 +7,9 @@ Kids love it, grown-ups love it — this moist, spiced pumpkin bread is hard to 
 
 [source](https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html)
 
-**Prep time**: 20 minutes  
-**Cook time**: 65 minutes  
-**Total time**: 1 hour 30 minutes  
+**Prep time**: 20 minutes
+**Cook time**: 65 minutes
+**Total time**: 1 hour 30 minutes
 **Servings**: 2 loaves
 
 ## Ingredients

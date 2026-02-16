@@ -5,9 +5,9 @@ tags: [cocktails]
 
 A delightfully smokey berry cocktail
 
-**Prep time**: 5 minutes  
-**Cook time**: 0 minutes  
-**Total time**: 5 minutes  
+**Prep time**: 5 minutes
+**Cook time**: 0 minutes
+**Total time**: 5 minutes
 **Servings**: 1 drink
 
 ## Ingredients

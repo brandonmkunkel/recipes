@@ -5,9 +5,9 @@ tags: [dessert, cookies]
 
 Classic snickerdoodle cookies with a soft, chewy center and a crisp cinnamon-sugar coating. Perfectly simple and always a crowd-pleaser.
 
-**Prep time**: 15 minutes  
-**Cook time**: 10–12 minutes  
-**Total time**: 25–30 minutes  
+**Prep time**: 15 minutes
+**Cook time**: 10–12 minutes
+**Total time**: 25–30 minutes
 **Yield**: About 24 cookies
 
 ## Ingredients
