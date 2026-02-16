@@ -7,10 +7,10 @@ Description
 
 [source]()
 
-**Prep time**:
+**Prep time**: 
 **Cook time**:  
-**Total time**:
-**Servings**:
+**Total time**: 
+**Servings**: 
 
 ## Ingredients
 
