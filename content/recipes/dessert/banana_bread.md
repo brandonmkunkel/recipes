@@ -7,9 +7,9 @@ This banana bread from Cook's Illustrated includes yogurt and walnuts for a scru
 
 [source](https://www.google.com/search?q=https://www.cooksillustrated.com/recipes/10857-banana-bread)
 
-**Prep time**: 30 minutes
-**Cook time**: 1 hour
-**Total time**: 1 hour 30 minutes
+**Prep time**: 30 minutes  
+**Cook time**: 1 hour  
+**Total time**: 1 hour 30 minutes  
 **Servings**: 10
 
 ## Ingredients

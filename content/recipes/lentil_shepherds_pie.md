@@ -7,9 +7,9 @@ The ultimate Vegan Lentil Shepherd's Pie featuring rich, flavourful, saucy lenti
 
 [source](https://avirtualvegan.com/lentil-shepherds-pie/)
 
-**Prep time**: 15 minutes
-**Cook time**: 45 minutes
-**Total time**: 55 minutes
+**Prep time**: 15 minutes  
+**Cook time**: 45 minutes  
+**Total time**: 55 minutes  
 **Servings**: 6 servings
 
 ## Ingredients

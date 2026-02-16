@@ -7,9 +7,9 @@ Simple & delicious Instant Pot Lamb Stew with chickpeas and fragrant Middle East
 
 [source](https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/)
 
-**Prep time**: 15 minutes
-**Cook time**: 60 minutes
-**Total time**: 1 hour 15 minutes
+**Prep time**: 15 minutes  
+**Cook time**: 60 minutes  
+**Total time**: 1 hour 15 minutes  
 **Servings**: 4
 
 ## Ingredients

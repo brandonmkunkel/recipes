@@ -5,9 +5,9 @@ tags: [dessert]
 
 An American classic, cinnamon swirled in brioche dough and topped with cream cheese frosting
 
-**Prep time**: 1 hour + (for rising)
-**Cook time**: 10 minutes
-**Total time**: 1 hour 10 minutes +
+**Prep time**: 1 hour + (for rising)  
+**Cook time**: 10 minutes  
+**Total time**: 1 hour 10 minutes +  
 **Servings**: 12 rolls
 
 ## Ingredients

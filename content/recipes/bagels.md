@@ -7,9 +7,9 @@ These homemade bagels are chewy, soft, and remarkably easy to make with just fiv
 
 [source](https://sallysbakingaddiction.com/homemade-bagels/)
 
-**Prep time**: 2 hours, 10 minutes
-**Cook time**: 25 minutes
-**Total time**: 3 hours
+**Prep time**: 2 hours, 10 minutes  
+**Cook time**: 25 minutes  
+**Total time**: 3 hours  
 **Servings**: 8 bagels
 
 ## Ingredients

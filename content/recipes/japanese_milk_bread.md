@@ -7,9 +7,9 @@ Japanese milk bread is unlike any other bread out there. It has a super soft, fl
 
 [source](https://kwokspots.com/japanese-milk-bread/)
 
-**Prep time**: 2 hours 30 minutes
-**Cook time**: 20 minutes (for dinner rolls)
-**Total time**: 2 hours 50 minutes
+**Prep time**: 2 hours 30 minutes  
+**Cook time**: 20 minutes (for dinner rolls)  
+**Total time**: 2 hours 50 minutes  
 **Servings**: 6
 
 ## Ingredients

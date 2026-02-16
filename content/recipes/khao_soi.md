@@ -7,9 +7,9 @@ Khao soi is the iconic dish of Northern Thailand. It features tender chicken in 
 
 [source](https://hot-thai-kitchen.com/kao-soi/)
 
-**Prep time**: 30 mins
-**Cook time**: 45 mins
-**Total time**: 1 hour 15 mins
+**Prep time**: 30 mins  
+**Cook time**: 45 mins  
+**Total time**: 1 hour 15 mins  
 **Servings**: 4
 
 ## Ingredients
