@@ -3042,11 +3042,6 @@ picomatch@^4.0.2, picomatch@^4.0.3:
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-4.0.3.tgz#796c76136d1eead715db1e7bad785dedd695a042"
   integrity sha512-5gTmgEY/sqK6gFXLIsQNH19lWb4ebPDLA4SdLP7dsWkIXHWlG66oPuVvXSGFPppYZz8ZDZq0dYYrbHfBCVUb1Q==
 
-pnpm@^10.29.3:
-  version "10.29.3"
-  resolved "https://registry.yarnpkg.com/pnpm/-/pnpm-10.29.3.tgz#f7315fb659932216d489e3ed4c14f47bc58ec6c6"
-  integrity sha512-SY4ftMylqgbB3PJhHm+vxQly/+cYmZjECekN50VmREKY/+Q+bNKs3Hdboap8xeCSqLcFTIEbqMV3D4RpPTPS3A==
-
 postcss@^8.5.3:
   version "8.5.6"
   resolved "https://registry.yarnpkg.com/postcss/-/postcss-8.5.6.tgz#2825006615a619b4f62a9e7426cc120b349a8f3c"
