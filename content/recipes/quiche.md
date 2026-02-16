@@ -17,16 +17,16 @@ A rich and creamy quiche baked in a flaky homemade crust. This base recipe is en
 ### For the Filling:
 
 - 4 large eggs
-- 1/2 cup whole milk\*
-- 1/2 cup heavy cream or heavy whipping cream\*
-- 1/4 tsp salt\*
-- 1/4 tsp pepper\*
+- 1/2 cup whole milk
+- 1/2 cup heavy cream or heavy whipping cream
+- 1/4 tsp salt
+- 1/4 tsp pepper
 - 1 cup shredded or crumbled cheese (feta, cheddar, goat cheese, gruyere, etc.)
 - Up to 2 cups of add-ins (see variations below)
 
 ### For the Crust:
 
-- 1 unbaked Flaky Pie Crust (or All-Butter Pie Crust)\*
+- 1 unbaked Flaky Pie Crust (or All-Butter Pie Crust)
 
 ### Optional Toppings:
 
