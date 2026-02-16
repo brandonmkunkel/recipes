@@ -1,6 +1,6 @@
 ---
 title: 'Japanese Milk Bread (Hokkaido)'
-tags: []
+tags: [bread]
 ---
 
 Japanese milk bread is unlike any other bread out there. It has a super soft, fluffy, and flakey texture, which is a product of using the Tangzhong method. Follow this recipe to make either dinner rolls or a loaf of bread.

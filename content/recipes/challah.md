@@ -1,6 +1,6 @@
 ---
 title: 'Classic Challah'
-tags: []
+tags: [bread]
 ---
 
 This deep-gold, light-textured bread is traditionally served on the Jewish Sabbath and holidays. Smooth and supple, the dough is perfect for braiding—whether you choose a simple three-strand, elegant four-strand, or striking six-strand braid.

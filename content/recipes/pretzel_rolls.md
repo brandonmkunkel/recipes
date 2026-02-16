@@ -1,6 +1,6 @@
 ---
 title: 'Pretzel Rolls'
-tags: []
+tags: [bread]
 ---
 
 These pretzel rolls are reminiscent of a German soft pretzel but in a more versatile shape so you can smother with butter, stuff with your favorite sandwich fixings, or inhale straight off the baking sheet.
