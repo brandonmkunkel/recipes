@@ -29,16 +29,12 @@ const { title, tags, text, slug } = Astro.props
 const entry = await getEntry('recipes', slug)
 if (!entry) {
   // Handle Error, for example:
-  throw new Error('Could not find blog post 1')
+  throw new Error('Could not find blog post')
 }
 const { Content, headings } = await render(entry)
 ---
 
-<head>
-  <title>{title}</title>
-</head>
-
-<Layout>
+<Layout title={title}>
   <Header />
   <SearchBar />
 
