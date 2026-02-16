@@ -3,7 +3,6 @@ title: "Gingersnaps"
 tags: []
 ---
 
-
 Friends and family will gobble up these crispy, spicy gingersnaps straight off the cooling rack.
 
 **Yield:** 60 cookies

@@ -2,7 +2,6 @@
 title: "Your Recipe Title"
 tags: []
 ---
-
 Description
 
 [source]()

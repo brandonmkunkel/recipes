@@ -3,7 +3,6 @@ title: "Chicken Tikka Masala"
 tags: []
 ---
 
-
 A restaurant-quality Chicken Tikka Masala recipe with tender, charred pieces of chicken swimming in an incredible, creamy tomato-based sauce.
 
 [source](https://cafedelites.com/chicken-tikka-masala/)

@@ -3,7 +3,6 @@ title: "Lentil Shepherd’s Pie"
 tags: []
 ---
 
-
 The ultimate Vegan Lentil Shepherd's Pie featuring rich, flavourful, saucy lentils topped with fluffy, creamy mashed potatoes & baked until deliciously golden brown & crispy. Easy, healthy, comforting and filling!
 
 [source](https://avirtualvegan.com/lentil-shepherds-pie/)

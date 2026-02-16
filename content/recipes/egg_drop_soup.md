@@ -3,7 +3,6 @@ title: "Egg Drop Soup"
 tags: []
 ---
 
-
 This easy egg drop soup recipe tastes just like your favorite Chinese restaurant's version—maybe even better! It's quick, comforting, and full of savory flavor.
 
 [source](https://thewoksoflife.com/egg-drop-soup)

@@ -3,7 +3,6 @@ title: "Drunken Noodles (Pad Kee Mao)"
 tags: []
 ---
 
-
 A flavorful and spicy Thai stir-fry noodle dish made with wide rice noodles, fresh vegetables, and a savory sauce. Despite the name, there's no alcohol in this dish — it's called "drunken" because it's a popular late-night meal, often enjoyed after a night out.
 
 [source](https://tastesbetterfromscratch.com/drunken-noodles/)

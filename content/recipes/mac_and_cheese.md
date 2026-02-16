@@ -3,7 +3,6 @@ title: "One Pot Mac and Cheese"
 tags: []
 ---
 
-
 A quick, creamy, and delicious stovetop mac and cheese made in just one pot. Perfect for a comforting meal with minimal cleanup!
 
 [source](https://www.gimmesomeoven.com/best-stovetop-mac-cheese/)

@@ -3,7 +3,6 @@ title: "Chef John Franke's Whiskey Cake"
 tags: []
 ---
 
-
 A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced pecans and whipped cream. This signature dessert from Whiskey Cake Kitchen delivers indulgent comfort with every bite.
 
 [source](https://www.nbcdfw.com/about-nbc-5/community/chef-john-frankes-recipe/1942839/)
@@ -48,7 +47,6 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 5. Plate with 2 oz whiskey sauce underneath, top with cake, then spiced pecans and a generous dollop of whipped cream.
 
 ---
-
 ## Toffee Sauce
 
 ### Ingredients:
@@ -68,7 +66,6 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 5. Cool on ice or use immediately. Store in the refrigerator for up to 3 days. Reheat before using.
 
 ---
-
 ## Whiskey Sauce
 
 ### Ingredients:
@@ -92,7 +89,6 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 7. Once cold, cover and refrigerate.
 
 ---
-
 ## Spiced Pecans
 
 ### Ingredients:
@@ -112,7 +108,6 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 4. Let cool completely and store in an airtight container at room temperature.
 
 ---
-
 ## Whipped Cream
 
 ### Ingredients:

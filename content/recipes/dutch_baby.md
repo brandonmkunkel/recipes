@@ -3,7 +3,6 @@ title: "Dutch Baby"
 tags: []
 ---
 
-
 A large, fluffy oven-baked pancake that's quick to prepare and perfect for any time of day. Just blend, bake, and enjoy with your favorite toppings!
 
 [source](https://cooking.nytimes.com/recipes/6648-dutch-baby)
