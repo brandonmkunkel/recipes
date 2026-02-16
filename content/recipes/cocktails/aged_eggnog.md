@@ -1,6 +1,6 @@
 ---
 title: "Alton Brown's Aged Eggnog"
-tags: []
+tags: [cocktails]
 ---
 
 This recipe for aged eggnog blends rum, bourbon, and cognac with dairy and nutmeg for a complex Christmas cocktail. The aging process turns a boozy drink into an indulgent cocktail that your friends will ask about each year.

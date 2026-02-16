@@ -1,6 +1,6 @@
 ---
 title: 'El Chupacabra'
-tags: []
+tags: [cocktails]
 ---
 
 A delightfully smokey berry cocktail

@@ -38,8 +38,7 @@ const { Content, headings } = await render(entry)
   <Header />
   <SearchBar />
 
-  <Recipe>
-    <h1>{title}</h1>
+  <Recipe title={title} tags={tags}>
     <Content />
   </Recipe>
 </Layout>
@@ -59,5 +58,25 @@ const { Content, headings } = await render(entry)
   p {
     line-height: 1.6;
     margin-bottom: 1rem;
+  }
+
+  .tags {
+    margin-top: 1.5rem;
+  }
+
+  .tag-list {
+    list-style: none;
+    padding: 0;
+    display: flex;
+    gap: 0.5rem;
+    flex-wrap: wrap;
+  }
+
+  .tag-list li a {
+    background: #efefef;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
   }
 </style>

@@ -1,6 +1,6 @@
 ---
 title: 'Cinnamon Rolls'
-tags: []
+tags: [dessert]
 ---
 
 An American classic, cinnamon swirled in brioche dough and topped with cream cheese frosting
