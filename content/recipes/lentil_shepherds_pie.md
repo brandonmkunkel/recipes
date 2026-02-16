@@ -35,9 +35,10 @@ The ultimate Vegan Lentil Shepherd's Pie featuring rich, flavourful, saucy lenti
 - 1 teaspoon ground ginger
 - 1 teaspoon turmeric
 - 2 teaspoon cumin
+- 1 teaspoon coriander powder
 - 1 teaspoon chili powder
 - 1 teaspoon smoked paprika (or normal paprika if preferred)
-- 1½ teaspoons sea salt, or to taste (reduce as necessary if using table salt)
+- 1 teaspoon sea salt, or to taste
 - 1 teaspoon freshly ground black pepper, or to taste
 
 ## Instructions
