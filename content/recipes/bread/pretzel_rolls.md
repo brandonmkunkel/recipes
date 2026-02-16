@@ -7,9 +7,9 @@ These pretzel rolls are reminiscent of a German soft pretzel but in a more versa
 
 [source](https://leitesculinaria.com/106433/recipes-pretzel-rolls.html)
 
-**Prep time**: 30 minutes  
-**Cook time**: 25 minutes  
-**Total time**: 2 hours 30 minutes  
+**Prep time**: 30 minutes
+**Cook time**: 25 minutes
+**Total time**: 2 hours 30 minutes
 **Servings**: 10 rolls
 
 ## Ingredients

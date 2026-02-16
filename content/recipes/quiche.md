@@ -7,9 +7,9 @@ A rich and creamy quiche baked in a flaky homemade crust. This base recipe is en
 
 [source](https://sallysbakingaddiction.com/quiche-recipe/)
 
-**Prep time**: 2 hours 40 minutes  
-**Cook time**: 1 hour 20 minutes  
-**Total time**: 4 hours  
+**Prep time**: 2 hours 40 minutes
+**Cook time**: 1 hour 20 minutes
+**Total time**: 4 hours
 **Yield**: 8 servings
 
 ## Ingredients

@@ -7,9 +7,9 @@ A large, fluffy oven-baked pancake that's quick to prepare and perfect for any t
 
 [source](https://cooking.nytimes.com/recipes/6648-dutch-baby)
 
-**Prep time**: 5 minutes  
-**Cook time**: 35 minutes  
-**Total time**: 40 minutes  
+**Prep time**: 5 minutes
+**Cook time**: 35 minutes
+**Total time**: 40 minutes
 **Yield**: 3 to 4 servings
 
 ## Ingredients

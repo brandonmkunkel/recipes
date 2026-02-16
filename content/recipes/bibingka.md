@@ -7,9 +7,9 @@ The Cornbread Bibingka is a sweet and savory Filipino rice cake. This dish combi
 
 [source](https://salu-salo.com/cornbread-bibingka/)
 
-**Prep time**: 15 mins  
-**Cook time**: 40 mins  
-**Total time**: 55 mins  
+**Prep time**: 15 mins
+**Cook time**: 40 mins
+**Total time**: 55 mins
 **Servings**: 12 servings
 
 ## Ingredients

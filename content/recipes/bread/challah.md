@@ -7,9 +7,9 @@ This deep-gold, light-textured bread is traditionally served on the Jewish Sabba
 
 [source](https://www.kingarthurbaking.com/recipes/classic-challah-recipe)
 
-**Prep time**: 20 minutes  
-**Cook time**: 30 minutes  
-**Total time**: 3 hours 50 minutes  
+**Prep time**: 20 minutes
+**Cook time**: 30 minutes
+**Total time**: 3 hours 50 minutes
 **Servings**: 1 large 16" loaf
 
 ## Ingredients

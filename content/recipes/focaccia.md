@@ -7,9 +7,9 @@ You NEED to make this no-knead focaccia. It no bread-making skill and results in
 
 [Shockingly Easy No-Knead Focaccia Recipe Bon Appétit](https://www.scribd.com/document/768161267/Shockingly-Easy-No-Knead-Focaccia-Recipe-Bon-Appetit)
 
-**Prep time**: ~20 minutes active prep  
-**Cook time**: 20–30 minutes  
-**Total time**: 9.5 hours to 28.5 hours (including rising times)  
+**Prep time**: ~20 minutes active prep
+**Cook time**: 20–30 minutes
+**Total time**: 9.5 hours to 28.5 hours (including rising times)
 **Servings**: 10–12 servings
 
 ## Ingredients

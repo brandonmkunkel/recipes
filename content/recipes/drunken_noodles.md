@@ -7,9 +7,9 @@ A flavorful and spicy Thai stir-fry noodle dish made with wide rice noodles, fre
 
 [source](https://tastesbetterfromscratch.com/drunken-noodles/)
 
-**Prep time**: 20 minutes  
-**Cook time**: 10 minutes  
-**Total time**: 30 minutes  
+**Prep time**: 20 minutes
+**Cook time**: 10 minutes
+**Total time**: 30 minutes
 **Servings**: 4
 
 ## Ingredients

@@ -7,9 +7,9 @@ A quick, creamy, and delicious stovetop mac and cheese made in just one pot. Per
 
 [source](https://www.gimmesomeoven.com/best-stovetop-mac-cheese/)
 
-**Prep time**: 15 minutes  
-**Cook time**: 15 minutes  
-**Total time**: 30 minutes  
+**Prep time**: 15 minutes
+**Cook time**: 15 minutes
+**Total time**: 30 minutes
 **Yield**: 4 servings
 
 ## Ingredients

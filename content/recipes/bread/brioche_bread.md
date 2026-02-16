@@ -7,9 +7,9 @@ This "magical" brioche is well-known for its especially light, fluffy, and soft 
 
 [source](http://www.ricenflour.com/recipe/how-to-make-authentic-french-brioche-recipe-from-le-cordon-bleu-paris-with-video/)
 
-**Prep time**: 40 minutes (plus 15 hours proofing)  
-**Cook time**: 35 minutes  
-**Total time**: ~16 hours  
+**Prep time**: 40 minutes (plus 15 hours proofing)
+**Cook time**: 35 minutes
+**Total time**: ~16 hours
 **Servings**: 4–6
 
 ## Ingredients
