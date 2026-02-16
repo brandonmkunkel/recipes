@@ -5,18 +5,20 @@ const { title, url, tags } = Astro.props
 <article>
   <h1>{title}</h1>
 
-  {tags && tags.length > 0 && (
-    <div class="tags-inline">
-      <span class="tags-label">Tags</span>
-      <ul class="tag-list inline">
-        {tags.map((t) => (
-          <li>
-            <a href={`/recipes/tags/${t}/`}>{t}</a>
-          </li>
-        ))}
-      </ul>
-    </div>
-  )}
+  {
+    tags && tags.length > 0 && (
+      <div class="tags-inline">
+        <span class="tags-label">Tags</span>
+        <ul class="tag-list inline">
+          {tags.map((t) => (
+            <li>
+              <a href={`/recipes/tags/${t}/`}>{t}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )
+  }
 
   <div class="recipe-body">
     <slot />
