@@ -11,5 +11,13 @@
 
   "[astro]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+
+  "copilot.agent.terminal.allowList": {
+    "astro": true,
+    "yarn": true
   }
 }
