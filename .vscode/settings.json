@@ -10,6 +10,6 @@
   "prettier.trailingComma": "es5",
 
   "[astro]": {
-    "editor.defaultFormatter": "astro-build.astro-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   }
 }

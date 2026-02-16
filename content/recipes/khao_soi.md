@@ -86,6 +86,6 @@ Khao soi is the iconic dish of Northern Thailand. It features tender chicken in 
 ## Modifications
 
 - **Turmeric**: Substitute 1 teaspoon ground turmeric if fresh is unavailable.
-- **Chicken**: Chicken thighs (bone-in) can be used instead of drumsticks. You can also substitute beef for the chicken as well. 
+- **Chicken**: Chicken thighs (bone-in) can be used instead of drumsticks. You can also substitute beef for the chicken as well.
 - **Vegetarian**: Use firm tofu or mushrooms and substitute fish sauce with more soy sauce or salt.
 - **Onions**: Red onion can be used as a substitute for shallots in the condiments.

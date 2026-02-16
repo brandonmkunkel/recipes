@@ -1,13 +1,13 @@
 ---
-import { getCollection, getEntry, render } from 'astro:content';
+import { getCollection, getEntry, render } from 'astro:content'
 
-import Header from '~/components/Header.astro';
-import SearchBar from '~/components/SearchBar.astro';
-import Layout from '~/layouts/Layout.astro';
-import Recipe from '~/components/Recipe.astro';
+import Header from '~/components/Header.astro'
+import SearchBar from '~/components/SearchBar.astro'
+import Layout from '~/layouts/Layout.astro'
+import Recipe from '~/components/Recipe.astro'
 
 export async function getStaticPaths() {
-  const recipes = await getCollection('recipes');
+  const recipes = await getCollection('recipes')
 
   const pages = recipes.map((recipe) => {
     return {
@@ -18,21 +18,20 @@ export async function getStaticPaths() {
         text: recipe.body,
         tags: recipe.data.tags ?? [],
       },
-    };
-  });
+    }
+  })
 
   return pages
 }
 
-const { title, tags, text, slug } = Astro.props;
+const { title, tags, text, slug } = Astro.props
 
-const entry = await getEntry('recipes', slug);
+const entry = await getEntry('recipes', slug)
 if (!entry) {
   // Handle Error, for example:
-  throw new Error('Could not find blog post 1');
+  throw new Error('Could not find blog post 1')
 }
-const { Content, headings } = await render(entry);
-
+const { Content, headings } = await render(entry)
 ---
 
 <head>
@@ -41,13 +40,12 @@ const { Content, headings } = await render(entry);
 
 <Layout>
   <Header />
-	<SearchBar /> 
-  
+  <SearchBar />
+
   <Recipe>
     <h1>{title}</h1>
     <Content />
   </Recipe>
-
 </Layout>
 
 <style>
@@ -57,7 +55,9 @@ const { Content, headings } = await render(entry);
     padding: 1rem;
   }
 
-  h1, h2, h3 {
+  h1,
+  h2,
+  h3 {
     margin-top: 1.5rem;
     margin-bottom: 0.5rem;
   }
