@@ -2,19 +2,14 @@
 import Search from 'astro-pagefind/components/Search'
 ---
 
-<html lang="en">
-  <body>
-    <header>
-      <nav>
-        <Search
-          id="search1"
-          className="pagefind-ui"
-          uiOptions={{ showImages: true }}
-        />
-      </nav>
-    </header>
-  </body>
-</html>
+<nav>
+  <Search
+    id="search1"
+    className="pagefind-ui"
+    uiOptions={{ showImages: true }}
+  />
+</nav>
+
 <style is:global>
   nav {
     display: grid;

@@ -3,11 +3,14 @@ import { Image } from 'astro:assets'
 import logo from 'src/assets/logo.png'
 ---
 
-<header class="header">
+<header>
   <a href="/recipes/">
     <Image src={logo} alt="Logo" class="logo" />
   </a>
   <nav>
+    <ul>
+      <li><a href="/recipes/">Home</a></li>
+    </ul>
     <ul>
       <li><a href="/recipes/">Recipes</a></li>
     </ul>
@@ -18,7 +21,7 @@ import logo from 'src/assets/logo.png'
 </header>
 
 <style>
-  .header {
+  header {
     display: flex;
     justify-content: space-evenly;
     align-items: center;
