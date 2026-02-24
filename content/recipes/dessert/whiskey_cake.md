@@ -23,8 +23,8 @@ A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced p
 - 1 cup granulated sugar
 - 2 jumbo eggs
 - 1 ¾ cups self-rising flour
-- As needed: pan spray
 - 2 tbsp Sugar in the Raw
+- To coat the cake pan: pan spray or oil/butter
 
 ### Instructions
 
