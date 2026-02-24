@@ -15,7 +15,7 @@ A delicious cinnamon roll in the form of a pancake that the whole family will lo
 ### Cinnamon Filling
 
 - 4 tablespoons unsalted butter, melted
-- 1⁄4 cup + 2 tablespoons packed light brown sugar
+- 1⁄3 cup packed light brown sugar
 - 1⁄2 tablespoon ground cinnamon
 
 ### Cream Cheese Glaze
