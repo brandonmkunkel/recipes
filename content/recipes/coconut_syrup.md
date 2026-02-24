@@ -1,5 +1,5 @@
 ---
-title: 'Hawaiian Coconut Syrup for Pancakes'
+title: 'Hawaiian Coconut Syrup'
 tags: []
 ---
 
