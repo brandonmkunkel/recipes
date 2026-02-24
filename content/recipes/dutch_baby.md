@@ -1,6 +1,6 @@
 ---
 title: 'Dutch Baby'
-tags: []
+tags: [breakfast]
 ---
 
 A large, fluffy oven-baked pancake that's quick to prepare and perfect for any time of day. Just blend, bake, and enjoy with your favorite toppings!
