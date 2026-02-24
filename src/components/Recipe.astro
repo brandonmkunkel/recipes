@@ -1,4 +1,6 @@
 ---
+import WakeLockButton from './WakeLockButton.astro'
+
 const { title, url, tags } = Astro.props
 ---
 
@@ -10,7 +12,7 @@ const { title, url, tags } = Astro.props
       <div class="tags-inline">
         <span class="tags-label">Tags</span>
         <ul class="tag-list inline">
-          {tags.map((t) => (
+          {tags.map((t: string) => (
             <li>
               <a href={`/recipes/tags/${t}/`}>{t}</a>
             </li>
@@ -19,6 +21,8 @@ const { title, url, tags } = Astro.props
       </div>
     )
   }
+
+  <WakeLockButton />
 
   <div class="recipe-body">
     <slot />

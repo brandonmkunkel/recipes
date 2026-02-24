@@ -6,7 +6,7 @@ import Header from '~/components/Header.astro'
 import SearchBar from '~/components/SearchBar.astro'
 
 const recipes = await getCollection('recipes')
-const tags = new Set()
+const tags = new Set<string>()
 for (const r of recipes) {
   for (const t of r.data.tags ?? []) tags.add(t)
 }

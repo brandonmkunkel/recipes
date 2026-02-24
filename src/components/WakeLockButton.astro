@@ -1,0 +1,77 @@
+---
+// WakeLockButton.astro - A reusable component for keeping the screen awake
+---
+
+<button id="wake-lock-btn" class="wake-lock-btn">Keep Screen Awake</button>
+
+<script>
+  let wakeLock: WakeLockSentinel | null = null
+  const btn = document.getElementById(
+    'wake-lock-btn'
+  ) as HTMLButtonElement | null
+
+  if (btn && 'wakeLock' in navigator) {
+    btn.addEventListener('click', async () => {
+      if (wakeLock) {
+        // Release the wake lock
+        wakeLock.release()
+        wakeLock = null
+        btn.textContent = 'Keep Screen Awake'
+        btn.classList.remove('active')
+      } else {
+        try {
+          // Request a wake lock
+          wakeLock = await navigator.wakeLock.request('screen')
+          btn.textContent = 'Keeping Screen Awake'
+          btn.classList.add('active')
+
+          // Listen for when the wake lock is released
+          wakeLock.addEventListener('release', () => {
+            wakeLock = null
+            btn.textContent = 'Keep Screen Awake'
+            btn.classList.remove('active')
+          })
+        } catch (err) {
+          console.error('Failed to request wake lock:', err)
+          alert(
+            'Failed to keep screen awake. This feature may not be supported on your device.'
+          )
+        }
+      }
+    })
+  } else if (btn) {
+    // Wake Lock API not supported
+    btn.disabled = true
+    btn.textContent = 'Screen Wake Not Supported'
+  }
+</script>
+
+<style>
+  .wake-lock-btn {
+    background: #6c757d;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 1rem;
+    font-size: 1rem;
+  }
+
+  .wake-lock-btn:hover {
+    background: #5a6268;
+  }
+
+  .wake-lock-btn.active {
+    background: #4caf50;
+  }
+
+  .wake-lock-btn.active:hover {
+    background: #45a049;
+  }
+
+  .wake-lock-btn:disabled {
+    background: #cccccc;
+    cursor: not-allowed;
+  }
+</style>

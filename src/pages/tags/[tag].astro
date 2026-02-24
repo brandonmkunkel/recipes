@@ -17,7 +17,7 @@ export async function getStaticPaths() {
   return Array.from(tags).map((tag) => ({ params: { tag }, props: { tag } }))
 }
 
-const { tag } = Astro.props
+const { tag } = Astro.props as { tag: string }
 
 const recipes = await getCollection('recipes')
 const matched = recipes

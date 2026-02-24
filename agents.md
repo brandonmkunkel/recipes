@@ -1,7 +1,7 @@
 # Style Guide
 
-- Run yarn format to auto-format the entire repo.
-- Run yarn lint to lint the entire repo.
+- Run `yarn format` to auto-format the entire repo
+- Run `yarn lint` to lint the entire repo.
 
 # Changing the structure of content types
 
