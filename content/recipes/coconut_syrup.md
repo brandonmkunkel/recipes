@@ -16,7 +16,7 @@ This coconut syrup recipe is incredibly easy to make with just a few ingredients
 
 - 13 ounces full-fat coconut milk (not lite)
 - 1 tablespoon cornstarch
-- 1/2 cup coconut sugar sugar
+- 1/2 cup coconut sugar
 - 1/2 teaspoon salt (or up to 3/4 teaspoon, to taste)
 - 1 teaspoon vanilla extract
 
