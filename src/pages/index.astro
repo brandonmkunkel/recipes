@@ -7,9 +7,12 @@ import { getCollection } from 'astro:content'
 const recipes = (await getCollection('recipes')).sort((a, b) =>
   a.data.title.localeCompare(b.data.title)
 )
+const title = 'Recipes - Brandon Kunkel'
+const description =
+  'My personal collection of recipes, organized by tags and categories. Updated regularly with new dishes and culinary experiments.'
 ---
 
-<Layout title="Recipes - Brandon Kunkel">
+<Layout title={title} description={description}>
   <Header />
   <SearchBar />
 
