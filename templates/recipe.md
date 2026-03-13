@@ -1,14 +1,14 @@
 ---
 title: 'Your Recipe Title'
 tags: []
+description: >
+  Description
 ---
-
-Description
 
 [source]()
 
 **Prep time**:
-**Cook time**:  
+**Cook time**:
 **Total time**:
 **Servings**:
 
