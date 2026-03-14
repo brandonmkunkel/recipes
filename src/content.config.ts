@@ -11,6 +11,7 @@ const recipes = defineCollection({
     title: z.string(),
     tags: z.array(z.string()).optional(),
     description: z.string(),
+    source: z.string().url().optional(),
     // ingredients: z.array(z.string()),
     // instructions: z.array(z.string()),
     // tips: z.array(z.string()).optional(),

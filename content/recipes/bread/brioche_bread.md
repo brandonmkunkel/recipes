@@ -3,9 +3,8 @@ title: 'Authentic French Brioche (Le Cordon Bleu Paris)'
 tags: [bread]
 description: >
   This "magical" brioche is well-known for its especially light, fluffy, and soft texture, which tastes like a hybrid between bread and cake. This authentic recipe, learned from Le Cordon Bleu Paris, features a rich butter content and a delicate aroma of vanilla and bergamot.
+source: 'http://www.ricenflour.com/recipe/how-to-make-authentic-french-brioche-recipe-from-le-cordon-bleu-paris-with-video/'
 ---
-
-[source](http://www.ricenflour.com/recipe/how-to-make-authentic-french-brioche-recipe-from-le-cordon-bleu-paris-with-video/)
 
 **Prep time**: 40 minutes (plus 15 hours proofing)
 **Cook time**: 35 minutes

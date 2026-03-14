@@ -3,9 +3,8 @@ title: 'Hawaiian Coconut Syrup'
 tags: []
 description: >
   This coconut syrup recipe is incredibly easy to make with just a few ingredients, perfect for drizzling over pancakes, waffles, or even as a fruit dip! It's a delicious alternative to traditional syrups and a definite crowd-pleaser.
+source: 'https://thefoodcharlatan.com/coconut-syrup-recipe/'
 ---
-
-[https://thefoodcharlatan.com/coconut-syrup-recipe/](https://thefoodcharlatan.com/coconut-syrup-recipe/)
 
 **Prep time**: 0 minutes
 **Cook time**: 15 minutes

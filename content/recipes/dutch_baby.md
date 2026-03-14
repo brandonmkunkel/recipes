@@ -3,9 +3,8 @@ title: 'Dutch Baby'
 tags: [breakfast]
 description: >
   A large, fluffy oven-baked pancake that's quick to prepare and perfect for any time of day. Just blend, bake, and enjoy with your favorite toppings!
+source: 'https://cooking.nytimes.com/recipes/6648-dutch-baby'
 ---
-
-[source](https://cooking.nytimes.com/recipes/6648-dutch-baby)
 
 **Prep time**: 5 minutes
 **Cook time**: 35 minutes

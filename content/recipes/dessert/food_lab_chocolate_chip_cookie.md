@@ -3,9 +3,8 @@ title: "The Food Lab's Chocolate Chip Cookies"
 tags: [dessert, cookies]
 description: >
   These cookies from J. Kenji López-Alt are deeply flavorful with nutty brown butter, gooey chocolate, and crisp edges. Chilling the dough develops a richer texture and taste—worth every minute of wait time.
+source: 'https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe'
 ---
-
-[source](https://www.seriouseats.com/the-food-lab-best-chocolate-chip-cookie-recipe)
 
 **Prep time**: 20 minutes
 **Cook time**: 30 minutes

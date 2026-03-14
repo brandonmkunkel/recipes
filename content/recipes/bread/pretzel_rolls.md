@@ -3,9 +3,8 @@ title: 'Pretzel Rolls'
 tags: [bread]
 description: >
   These pretzel rolls are reminiscent of a German soft pretzel but in a more versatile shape so you can smother with butter, stuff with your favorite sandwich fixings, or inhale straight off the baking sheet.
+source: 'https://leitesculinaria.com/106433/recipes-pretzel-rolls.html'
 ---
-
-[source](https://leitesculinaria.com/106433/recipes-pretzel-rolls.html)
 
 **Prep time**: 30 minutes
 **Cook time**: 25 minutes

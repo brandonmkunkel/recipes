@@ -3,9 +3,8 @@ title: 'No-Knead Focaccia'
 tags: [bread]
 description: >
   You NEED to make this no-knead focaccia. It no bread-making skill and results in a perfectly soft and fluffy, satisfyingly chewy, and light-as-air focaccia. It's designed to be foolproof, with a super quick dough preparation followed by an overnight proof in the fridge, making it accessible for any level of baker.
+source: 'https://www.scribd.com/document/768161267/Shockingly-Easy-No-Knead-Focaccia-Recipe-Bon-Appetit'
 ---
-
-[Shockingly Easy No-Knead Focaccia Recipe Bon Appétit](https://www.scribd.com/document/768161267/Shockingly-Easy-No-Knead-Focaccia-Recipe-Bon-Appetit)
 
 **Prep time**: ~20 minutes active prep
 **Cook time**: 20–30 minutes

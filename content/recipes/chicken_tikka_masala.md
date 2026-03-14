@@ -3,9 +3,8 @@ title: 'Chicken Tikka Masala'
 tags: []
 description: >
   A restaurant-quality Chicken Tikka Masala recipe with tender, charred pieces of chicken swimming in an incredible, creamy tomato-based sauce.
+source: 'https://cafedelites.com/chicken-tikka-masala/'
 ---
-
-[source](https://cafedelites.com/chicken-tikka-masala/)
 
 **Prep time**: 15 mins (+ marination time)
 **Cook time**: 25 mins
