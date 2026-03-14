@@ -4,6 +4,7 @@ import { getCollection } from 'astro:content'
 import Layout from '~/layouts/Layout.astro'
 import Header from '~/components/Header.astro'
 import SearchBar from '~/components/SearchBar.astro'
+import Breadcrumbs from '~/components/Breadcrumbs.astro'
 
 export async function getStaticPaths() {
   const recipes = await getCollection('recipes')
@@ -23,6 +24,8 @@ const recipes = await getCollection('recipes')
 const matched = recipes
   .filter((r) => (r.data.tags ?? []).includes(tag))
   .sort((a, b) => (a.data.title ?? a.id).localeCompare(b.data.title ?? b.id))
+
+const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Tags', href: '/recipes/tags/' }, { label: tag }]
 ---
 
 <Layout title={`Tag: ${tag}`}>
@@ -30,6 +33,7 @@ const matched = recipes
   <SearchBar />
 
   <main>
+    <Breadcrumbs crumbs={crumbs} />
     <h1>Tag: {tag}</h1>
     {
       matched.length === 0 ? (

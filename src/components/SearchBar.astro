@@ -3,14 +3,10 @@ import Search from 'astro-pagefind/components/Search'
 ---
 
 <nav>
-  <Search
-    id="search1"
-    className="pagefind-ui"
-    uiOptions={{ showImages: true }}
-  />
+  <Search id="search1" className="pagefind-ui" uiOptions={{ showImages: true }} />
 </nav>
 
-<style is:global>
+<style>
   nav {
     display: grid;
     place-items: center;
@@ -25,7 +21,7 @@ import Search from 'astro-pagefind/components/Search'
     --pagefind-ui-border-radius: 0.25rem;
     --pagefind-ui-font: sans-serif;
 
-    width: 50%;
+    width: 90%;
   }
 
   .pagefind-ui.yellow {
