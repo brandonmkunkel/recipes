@@ -3,7 +3,20 @@
 - Run `yarn format` to auto-format the entire repo
 - Run `yarn lint` to lint the entire repo.
 
-# Changing the structure of content types
+# Repo Layout
+
+- `content/recipes/` — Recipe markdown files, organized into subdirectories by category (`bread/`, `dessert/`, `cocktails/`). Each file is a distinct recipe with YAML frontmatter (`title`, `tags`, `description`).
+- `src/` — Astro source code
+  - `assets/` — Images and SVGs processed by Astro
+  - `pages/` — Route pages: `index.astro` (home), `[...slug].astro` (recipe detail), `tags/` (tag index and filtered views)
+  - `components/` — Shared UI components (`Header`, `Footer`, `Recipe`, `SearchBar`, `WakeLockButton`)
+  - `layouts/` — Base page layout (`Layout.astro`)
+  - `content.config.ts` — Astro content collection schema for recipes
+  - `styles/` — Global CSS
+- `public/` — Static assets (favicon, fonts)
+- `templates/` — Reference templates for content authors (`recipe.md`, `prompt.md`)
+
+## Changing the structure of content types
 
 - Treat each top-level folder in recipes in `/content` as a distinct data type (recipe, blogs, etc)
 - Update all content of a specific type if you need to restructure
