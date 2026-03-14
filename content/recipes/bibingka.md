@@ -1,9 +1,9 @@
 ---
 title: 'Cornbread Bibingka'
 tags: []
+description: >
+  The Cornbread Bibingka is a sweet and savory Filipino rice cake. This dish combines a buttery, cake-like texture with a hint of sweetness, making it a perfect treat for any occasion.
 ---
-
-The Cornbread Bibingka is a sweet and savory Filipino rice cake. This dish combines a buttery, cake-like texture with a hint of sweetness, making it a perfect treat for any occasion.
 
 [source](https://salu-salo.com/cornbread-bibingka/)
 

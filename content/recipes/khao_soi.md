@@ -1,9 +1,9 @@
 ---
 title: Khao Soi (Northern Thai Curry Noodle Soup)
 tags: []
+description: >
+  Khao soi is the iconic dish of Northern Thailand. It features tender chicken in a rich, aromatic coconut curry broth, served over soft egg noodles and topped with a nest of crispy fried noodles. The dish is traditionally served with a variety of fresh and pickled condiments to balance the richness.
 ---
-
-Khao soi is the iconic dish of Northern Thailand. It features tender chicken in a rich, aromatic coconut curry broth, served over soft egg noodles and topped with a nest of crispy fried noodles. The dish is traditionally served with a variety of fresh and pickled condiments to balance the richness.
 
 [source](https://hot-thai-kitchen.com/kao-soi/)
 

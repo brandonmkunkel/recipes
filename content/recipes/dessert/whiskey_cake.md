@@ -1,9 +1,9 @@
 ---
 title: "Chef John Franke's Whiskey Cake"
 tags: [dessert]
+description: >
+  A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced pecans and whipped cream. This signature dessert from Whiskey Cake Kitchen delivers indulgent comfort with every bite.
 ---
-
-A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced pecans and whipped cream. This signature dessert from Whiskey Cake Kitchen delivers indulgent comfort with every bite.
 
 [source](https://www.nbcdfw.com/about-nbc-5/community/chef-john-frankes-recipe/1942839/)
 

@@ -1,9 +1,9 @@
 ---
 title: 'Bagels'
 tags: [bread]
+description: >
+  These homemade bagels are chewy, soft, and remarkably easy to make with just five basic pantry ingredients. Boiling the dough before baking ensures a traditional New York-style crust that is perfectly golden and shiny.
 ---
-
-These homemade bagels are chewy, soft, and remarkably easy to make with just five basic pantry ingredients. Boiling the dough before baking ensures a traditional New York-style crust that is perfectly golden and shiny.
 
 [source](https://sallysbakingaddiction.com/homemade-bagels/)
 

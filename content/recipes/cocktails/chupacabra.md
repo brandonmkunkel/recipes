@@ -1,9 +1,9 @@
 ---
 title: 'El Chupacabra'
 tags: [cocktails]
+description: >
+  A delightfully smokey berry cocktail
 ---
-
-A delightfully smokey berry cocktail
 
 **Prep time**: 5 minutes
 **Cook time**: 0 minutes

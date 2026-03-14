@@ -10,7 +10,7 @@ const recipes = defineCollection({
   schema: z.object({
     title: z.string(),
     tags: z.array(z.string()).optional(),
-    // description: z.string(),
+    description: z.string(),
     // ingredients: z.array(z.string()),
     // instructions: z.array(z.string()),
     // tips: z.array(z.string()).optional(),

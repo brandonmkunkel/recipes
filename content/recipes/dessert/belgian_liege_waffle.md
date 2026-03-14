@@ -1,9 +1,9 @@
 ---
 title: 'Liège Belgian Waffles with Pearl Sugar'
 tags: [dessert]
+description: >
+  These thick, rich waffles are a classic Belgian street food. Made with a yeast-based dough and studded with pearl sugar, they feature a crunchy, caramelized exterior and a soft, buttery interior.
 ---
-
-These thick, rich waffles are a classic Belgian street food. Made with a yeast-based dough and studded with pearl sugar, they feature a crunchy, caramelized exterior and a soft, buttery interior.
 
 [source](https://www.allrecipes.com/recipe/213251/liege-belgian-waffles-with-pearl-sugar/)
 

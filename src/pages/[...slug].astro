@@ -17,6 +17,7 @@ export async function getStaticPaths() {
         title: recipe.data.title ?? recipe.id,
         text: recipe.body,
         tags: recipe.data.tags ?? [],
+        description: recipe.data.description ?? '',
       },
     }
   })
@@ -24,7 +25,7 @@ export async function getStaticPaths() {
   return pages
 }
 
-const { title, tags, text, slug } = Astro.props
+const { title, tags, text, slug, description } = Astro.props
 
 const entry = await getEntry('recipes', slug)
 if (!entry) {
@@ -38,7 +39,7 @@ const { Content, headings } = await render(entry)
   <Header />
   <SearchBar />
 
-  <Recipe title={title} tags={tags}>
+  <Recipe title={title} tags={tags} description={description}>
     <Content />
   </Recipe>
 </Layout>

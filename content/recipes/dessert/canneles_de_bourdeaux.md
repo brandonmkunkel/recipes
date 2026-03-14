@@ -1,9 +1,9 @@
 ---
 title: 'Cannelés (Canelés) de Bordeaux'
 tags: [dessert]
+description: >
+  A classic French pastry from Bordeaux, canelés have a rich, custardy interior and a thin, caramelized shell. This version uses traditional copper molds coated in beeswax for that perfect glossy finish.
 ---
-
-A classic French pastry from Bordeaux, canelés have a rich, custardy interior and a thin, caramelized shell. This version uses traditional copper molds coated in beeswax for that perfect glossy finish.
 
 [source](https://tasteofartisan.com/canele)
 
