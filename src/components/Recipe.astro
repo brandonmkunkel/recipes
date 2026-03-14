@@ -4,18 +4,12 @@ import WakeLockButton from './WakeLockButton.astro'
 
 const { title, url, tags, description } = Astro.props
 
-const crumbs = [
-  { label: 'Home', href: '/recipes/' },
-  { label: 'Recipes', href: '/recipes/' },
-  { label: title },
-]
+const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Recipes', href: '/recipes/' }, { label: title }]
 ---
 
 <article>
   <Breadcrumbs crumbs={crumbs} />
   <h1>{title}</h1>
-  <p>{description}</p>
-
   {
     tags && tags.length > 0 && (
       <div class="tags-inline">
@@ -30,6 +24,8 @@ const crumbs = [
       </div>
     )
   }
+
+  <p>{description}</p>
 
   <WakeLockButton />
 
