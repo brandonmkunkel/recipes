@@ -44,3 +44,7 @@
 .pagefind-ui .pagefind-ui__result-excerpt {
   color: var(--pagefind-ui-text);
 }
+
+li {
+  margin-bottom: 0.3em;
+}
