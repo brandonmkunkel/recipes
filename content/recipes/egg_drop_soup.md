@@ -4,12 +4,11 @@ tags: []
 description: >
   This easy egg drop soup recipe tastes just like your favorite Chinese restaurant's version—maybe even better! It's quick, comforting, and full of savory flavor.
 source: 'https://thewoksoflife.com/egg-drop-soup'
+prepTime: '5 mins'
+cookTime: '15 mins'
+totalTime: '20 mins'
+yield: '6 servings'
 ---
-
-**Prep time**: 5 mins
-**Cook time**: 15 mins
-**Total time**: 20 mins
-**Yield**: 6 servings
 
 ## Ingredients
 

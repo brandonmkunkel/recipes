@@ -4,12 +4,11 @@ tags: [dessert]
 description: >
   Kids love it, grown-ups love it — this moist, spiced pumpkin bread is hard to beat! Perfect for fall, it yields two loaves with a crisp crust fresh from the oven and a rich, warmly spiced flavor.
 source: 'https://www.onceuponachef.com/recipes/spiced-pumpkin-bread.html'
+prepTime: '20 minutes'
+cookTime: '65 minutes'
+totalTime: '1 hour 30 minutes'
+yield: '2 loaves'
 ---
-
-**Prep time**: 20 minutes
-**Cook time**: 65 minutes
-**Total time**: 1 hour 30 minutes
-**Servings**: 2 loaves
 
 ## Ingredients
 

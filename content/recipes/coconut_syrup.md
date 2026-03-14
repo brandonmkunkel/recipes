@@ -4,12 +4,11 @@ tags: []
 description: >
   This coconut syrup recipe is incredibly easy to make with just a few ingredients, perfect for drizzling over pancakes, waffles, or even as a fruit dip! It's a delicious alternative to traditional syrups and a definite crowd-pleaser.
 source: 'https://thefoodcharlatan.com/coconut-syrup-recipe/'
+prepTime: '0 minutes'
+cookTime: '15 minutes'
+totalTime: '15 minutes'
+yield: '8 Servings'
 ---
-
-**Prep time**: 0 minutes
-**Cook time**: 15 minutes
-**Total time**: 15 minutes
-**Servings**: 8 Servings
 
 ## Ingredients
 

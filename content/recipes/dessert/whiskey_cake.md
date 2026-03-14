@@ -4,12 +4,11 @@ tags: [dessert]
 description: >
   A rich, warm date cake soaked in toffee and whiskey sauces, topped with spiced pecans and whipped cream. This signature dessert from Whiskey Cake Kitchen delivers indulgent comfort with every bite.
 source: 'https://www.nbcdfw.com/about-nbc-5/community/chef-john-frankes-recipe/1942839/'
+prepTime: '30 minutes'
+cookTime: '40 minutes'
+totalTime: '1 hour 10 minutes (plus cooling time)'
+yield: '9 servings'
 ---
-
-**Prep time**: 30 minutes
-**Cook time**: 40 minutes
-**Total time**: 1 hour 10 minutes (plus cooling time)
-**Yield**: 9 servings
 
 ## Whiskey Cake
 

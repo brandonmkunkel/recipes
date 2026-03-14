@@ -3,12 +3,11 @@ title: 'El Chupacabra'
 tags: [cocktails]
 description: >
   A delightfully smokey berry cocktail
+prepTime: '5 minutes'
+cookTime: '0 minutes'
+totalTime: '5 minutes'
+yield: '1 drink'
 ---
-
-**Prep time**: 5 minutes
-**Cook time**: 0 minutes
-**Total time**: 5 minutes
-**Servings**: 1 drink
 
 ## Ingredients
 

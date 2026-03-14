@@ -3,9 +3,8 @@ title: 'Gingersnaps'
 tags: [dessert, cookies]
 description: >
   Friends and family will gobble up these crispy, spicy gingersnaps straight off the cooling rack.
+yield: '60 cookies'
 ---
-
-**Yield:** 60 cookies
 
 ## Ingredients
 

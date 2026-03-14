@@ -4,12 +4,11 @@ tags: []
 description: >
   Simple & delicious Instant Pot Lamb Stew with chickpeas and fragrant Middle Eastern spices- a fast, flavorful, wholesome meal that can be made in an Instant Pot.
 source: 'https://www.feastingathome.com/instant-pot-middle-eastern-lamb-stew/'
+prepTime: '15 minutes'
+cookTime: '60 minutes'
+totalTime: '1 hour 15 minutes'
+yield: '4'
 ---
-
-**Prep time**: 15 minutes
-**Cook time**: 60 minutes
-**Total time**: 1 hour 15 minutes
-**Servings**: 4
 
 ## Ingredients
 

@@ -4,12 +4,11 @@ tags: []
 description: >
   Khao soi is the iconic dish of Northern Thailand. It features tender chicken in a rich, aromatic coconut curry broth, served over soft egg noodles and topped with a nest of crispy fried noodles. The dish is traditionally served with a variety of fresh and pickled condiments to balance the richness.
 source: 'https://hot-thai-kitchen.com/kao-soi/'
+prepTime: '30 mins'
+cookTime: '45 mins'
+totalTime: '1 hour 15 mins'
+yield: '4'
 ---
-
-**Prep time**: 30 mins
-**Cook time**: 45 mins
-**Total time**: 1 hour 15 mins
-**Servings**: 4
 
 ## Ingredients
 

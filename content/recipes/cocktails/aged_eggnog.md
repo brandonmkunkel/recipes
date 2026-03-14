@@ -4,12 +4,11 @@ tags: [cocktails]
 description: >
   This recipe for aged eggnog blends rum, bourbon, and cognac with dairy and nutmeg for a complex Christmas cocktail. The aging process turns a boozy drink into an indulgent cocktail that your friends will ask about each year.
 source: 'https://altonbrown.com/recipes/aged-eggnog/'
+prepTime: '15 minutes'
+cookTime: '0 minutes'
+totalTime: '14 days (minimum aging time)'
+yield: '16 servings'
 ---
-
-**Prep time**: 15 minutes
-**Cook time**: 0 minutes
-**Total time**: 14 days (minimum aging time)
-**Yield**: 16 servings
 
 ## Ingredients
 

@@ -4,12 +4,11 @@ tags: [breakfast]
 description: >
   A rich and creamy quiche baked in a flaky homemade crust. This base recipe is endlessly customizable with your favorite meats, cheeses, and vegetables, and works beautifully for breakfast, brunch, or dinner.
 source: 'https://sallysbakingaddiction.com/quiche-recipe/'
+prepTime: '2 hours 40 minutes'
+cookTime: '1 hour 20 minutes'
+totalTime: '4 hours'
+yield: '8 servings'
 ---
-
-**Prep time**: 2 hours 40 minutes
-**Cook time**: 1 hour 20 minutes
-**Total time**: 4 hours
-**Yield**: 8 servings
 
 ## Ingredients
 

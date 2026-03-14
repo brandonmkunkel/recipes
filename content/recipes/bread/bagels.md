@@ -4,12 +4,11 @@ tags: [bread]
 description: >
   These homemade bagels are chewy, soft, and remarkably easy to make with just five basic pantry ingredients. Boiling the dough before baking ensures a traditional New York-style crust that is perfectly golden and shiny.
 source: 'https://sallysbakingaddiction.com/homemade-bagels/'
+prepTime: '2 hours, 10 minutes'
+cookTime: '25 minutes'
+totalTime: '3 hours'
+yield: '8 bagels'
 ---
-
-**Prep time**: 2 hours, 10 minutes
-**Cook time**: 25 minutes
-**Total time**: 3 hours
-**Servings**: 8 bagels
 
 ## Ingredients
 

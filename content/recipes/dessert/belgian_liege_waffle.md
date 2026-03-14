@@ -4,12 +4,11 @@ tags: [dessert]
 description: >
   These thick, rich waffles are a classic Belgian street food. Made with a yeast-based dough and studded with pearl sugar, they feature a crunchy, caramelized exterior and a soft, buttery interior.
 source: 'https://www.allrecipes.com/recipe/213251/liege-belgian-waffles-with-pearl-sugar/'
+prepTime: '20 mins'
+cookTime: '45 mins'
+totalTime: '1 hr 20 mins'
+yield: '10 waffles'
 ---
-
-**Prep time**: 20 mins
-**Cook time**: 45 mins
-**Total time**: 1 hr 20 mins
-**Servings**: 10 waffles
 
 ## Ingredients
 

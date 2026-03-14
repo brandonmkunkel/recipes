@@ -2,7 +2,7 @@
 import Breadcrumbs from './Breadcrumbs.astro'
 import WakeLockButton from './WakeLockButton.astro'
 
-const { title, url, tags, description, source } = Astro.props
+const { title, url, tags, description, source, prepTime, cookTime, totalTime, yield: recipeYield } = Astro.props
 
 const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Recipes', href: '/recipes/' }, { label: title }]
 ---
@@ -37,6 +37,37 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Recipes', href: 
       )
     }
   </p>
+
+  {
+    (prepTime || cookTime || totalTime || recipeYield) && (
+      <dl class="recipe-meta">
+        {prepTime && (
+          <div>
+            <dt>Prep Time</dt>
+            <dd>{prepTime}</dd>
+          </div>
+        )}
+        {cookTime && (
+          <div>
+            <dt>Cook Time</dt>
+            <dd>{cookTime}</dd>
+          </div>
+        )}
+        {totalTime && (
+          <div>
+            <dt>Total Time</dt>
+            <dd>{totalTime}</dd>
+          </div>
+        )}
+        {recipeYield && (
+          <div>
+            <dt>Yield</dt>
+            <dd>{recipeYield}</dd>
+          </div>
+        )}
+      </dl>
+    )
+  }
 
   <WakeLockButton />
 
@@ -95,6 +126,50 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Recipes', href: 
     border-radius: 4px;
     text-decoration: none;
     color: inherit;
+  }
+
+  .recipe-meta {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    margin: 1rem 0;
+    padding: 0.75rem 1rem;
+    background: #f8f8f8;
+    border-radius: 6px;
+  }
+
+  .recipe-meta div {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    flex: 1 1 4rem;
+    padding: 0.25rem 0.5rem;
+  }
+
+  .recipe-meta dt {
+    font-weight: 600;
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    color: #666;
+    margin-bottom: 0.2rem;
+  }
+
+  .recipe-meta dd {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+
+  @media (max-width: 480px) {
+    .recipe-meta {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .recipe-meta div {
+      flex: unset;
+    }
   }
 
   .recipe-body {

@@ -4,12 +4,11 @@ tags: [bread]
 description: >
   Japanese milk bread is unlike any other bread out there. It has a super soft, fluffy, and flakey texture, which is a product of using the Tangzhong method. Follow this recipe to make either dinner rolls or a loaf of bread.
 source: 'https://kwokspots.com/japanese-milk-bread/'
+prepTime: '2 hours 30 minutes'
+cookTime: '20 minutes (for dinner rolls)'
+totalTime: '2 hours 50 minutes'
+yield: '6'
 ---
-
-**Prep time**: 2 hours 30 minutes
-**Cook time**: 20 minutes (for dinner rolls)
-**Total time**: 2 hours 50 minutes
-**Servings**: 6
 
 ## Ingredients
 

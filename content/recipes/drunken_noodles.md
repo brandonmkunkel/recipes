@@ -4,12 +4,11 @@ tags: []
 description: >
   A flavorful and spicy Thai stir-fry noodle dish made with wide rice noodles, fresh vegetables, and a savory sauce. Despite the name, there's no alcohol in this dish — it's called "drunken" because it's a popular late-night meal, often enjoyed after a night out.
 source: 'https://tastesbetterfromscratch.com/drunken-noodles/'
+prepTime: '20 minutes'
+cookTime: '10 minutes'
+totalTime: '30 minutes'
+yield: '4'
 ---
-
-**Prep time**: 20 minutes
-**Cook time**: 10 minutes
-**Total time**: 30 minutes
-**Servings**: 4
 
 ## Ingredients
 

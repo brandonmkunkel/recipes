@@ -4,12 +4,11 @@ tags: []
 description: >
   Decadent Lobster Bisque, smooth and creamy, made with a quick homemade lobster stock and big chunks of garlic butter lobster meat in every bite.
 source: 'https://cafedelites.com/lobster-bisque/'
+prepTime: '30 minutes'
+cookTime: '1 hour 10 minutes'
+totalTime: '1 hour 40 minutes'
+yield: '6 cups'
 ---
-
-**Prep time**: 30 minutes
-**Cook time**: 1 hour 10 minutes
-**Total time**: 1 hour 40 minutes
-**Servings**: 6 cups
 
 ## Ingredients
 
