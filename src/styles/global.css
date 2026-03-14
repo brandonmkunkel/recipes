@@ -1,3 +1,25 @@
+article {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+main {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+h1 h2 h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+p {
+  line-height: 1.6;
+  margin-bottom: 1rem;
+}
+
 .pagefind-ui {
   --pagefind-ui-scale: 0.75;
   --pagefind-ui-primary: navy;
@@ -45,10 +67,6 @@
   color: var(--pagefind-ui-text);
 }
 
-li {
-  margin-bottom: 0.3em;
-}
-
 .recipes-list {
   display: flex;
   flex-direction: column;
@@ -71,4 +89,14 @@ li {
   background: linear-gradient(135deg, #efefef 0%, #f4f4f4 100%);
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
   transform: translateX(4px);
+}
+
+.tag-chip {
+  display: inline-block;
+  background: #efefef;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  text-decoration: none;
+  color: inherit;
+  font-weight: normal;
 }

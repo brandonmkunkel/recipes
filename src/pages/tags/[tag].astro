@@ -32,7 +32,7 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Tags', href: '/r
   <Header />
   <SearchBar />
 
-  <main class="container">
+  <main>
     <Breadcrumbs crumbs={crumbs} />
     <h1>
       Tag:
@@ -56,12 +56,6 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Tags', href: '/r
 </Layout>
 
 <style>
-  main {
-    max-width: 800px;
-    margin: 0 auto;
-    padding: 1rem;
-  }
-
   h1 {
     margin-bottom: 1rem;
   }
@@ -73,15 +67,5 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Tags', href: '/r
 
   li {
     margin: 0.5rem 0;
-  }
-
-  .tag-chip {
-    display: inline-block;
-    background: #efefef;
-    padding: 0.25rem 0.5rem;
-    border-radius: 4px;
-    text-decoration: none;
-    color: inherit;
-    font-weight: normal;
   }
 </style>
