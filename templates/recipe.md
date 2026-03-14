@@ -3,9 +3,8 @@ title: 'Your Recipe Title'
 tags: []
 description: >
   Description
+source: 'URL'
 ---
-
-[source]()
 
 **Prep time**:
 **Cook time**:
