@@ -23,9 +23,11 @@ import logo from 'src/assets/logo.png'
 <style>
   header {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     align-items: center;
-    padding: 0.5rem;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0.5rem 1rem;
     background-color: white;
     color: black;
   }
@@ -55,5 +57,20 @@ import logo from 'src/assets/logo.png'
   a {
     color: black;
     text-decoration: none;
+  }
+
+  @media (max-width: 480px) {
+    .logo {
+      width: 100px;
+    }
+
+    nav {
+      gap: 0.25rem;
+      font-size: 0.9rem;
+    }
+
+    nav ul li {
+      margin-right: 0.5rem;
+    }
   }
 </style>
