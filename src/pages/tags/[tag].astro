@@ -32,20 +32,24 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Tags', href: '/r
   <Header />
   <SearchBar />
 
-  <main>
+  <main class="container">
     <Breadcrumbs crumbs={crumbs} />
-    <h1>Tag: {tag}</h1>
+    <h1>
+      Tag:
+      <span class="tag-chip">{tag}</span>
+    </h1>
+
     {
       matched.length === 0 ? (
         <p>No recipes found for this tag.</p>
       ) : (
-        <ul>
+        <div class="recipes-list">
           {matched.map((r) => (
-            <li>
-              <a href={`/recipes/${r.id}/`}>{r.data.title ?? r.id}</a>
-            </li>
+            <a href={`/recipes/${r.id}/`} class="recipe-link">
+              {r.data.title ?? r.id}
+            </a>
           ))}
-        </ul>
+        </div>
       )
     }
   </main>
@@ -69,5 +73,15 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Tags', href: '/r
 
   li {
     margin: 0.5rem 0;
+  }
+
+  .tag-chip {
+    display: inline-block;
+    background: #efefef;
+    padding: 0.25rem 0.5rem;
+    border-radius: 4px;
+    text-decoration: none;
+    color: inherit;
+    font-weight: normal;
   }
 </style>
