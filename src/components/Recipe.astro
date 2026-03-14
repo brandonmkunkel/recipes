@@ -10,20 +10,22 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Recipes', href: 
 <article>
   <Breadcrumbs crumbs={crumbs} />
   <h1>{title}</h1>
-  {
-    tags && tags.length > 0 && (
-      <div class="tags-inline">
-        <span class="tags-label">Tags</span>
-        <ul class="tag-list inline">
-          {tags.map((t: string) => (
-            <li>
-              <a href={`/recipes/tags/${t}/`}>{t}</a>
-            </li>
-          ))}
-        </ul>
-      </div>
-    )
-  }
+  <nav>
+    {
+      tags && tags.length > 0 && (
+        <div class="tags-inline">
+          <span class="tags-label">Tags</span>
+          <ul class="tag-list inline">
+            {tags.map((t: string) => (
+              <li>
+                <a href={`/recipes/tags/${t}/`}>{t}</a>
+              </li>
+            ))}
+          </ul>
+        </div>
+      )
+    }
+  </nav>
 
   <p>{description}</p>
 
