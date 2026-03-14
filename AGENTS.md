@@ -11,7 +11,7 @@
 
 # Astro
 
-# Astro Quick Reference
+## Astro Quick Reference
 
 - Use `yarn dev` to start the local dev server.
 - Use `yarn build` to create a production build in `dist/` (static).
