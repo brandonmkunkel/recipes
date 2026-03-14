@@ -1,52 +1,65 @@
 ---
-// WakeLockButton.astro - A reusable component for keeping the screen awake
+const BUTTON_TEXT_OFF = 'Start Cooking Mode'
+const BUTTON_TEXT_ON = 'Cooking Mode On'
+const HELPER_TEXT_OFF = 'turn this on to keep your screen awake while cooking'
+const HELPER_TEXT_ON = 'your screen will stay awake while cooking, click to turn off'
 ---
 
-<button id="wake-lock-btn" class="wake-lock-btn">Keep Screen Awake</button>
+<div class="cooking-mode-wrapper">
+  <button id="wake-lock-btn" class="wake-lock-btn">{BUTTON_TEXT_OFF}</button>
+  <span id="cooking-mode-description" class="cooking-mode-description">{HELPER_TEXT_OFF}</span>
+</div>
 
-<script>
-  let wakeLock: WakeLockSentinel | null = null
-  const btn = document.getElementById(
-    'wake-lock-btn'
-  ) as HTMLButtonElement | null
+<script is:inline define:vars={{ BUTTON_TEXT_OFF, BUTTON_TEXT_ON, HELPER_TEXT_OFF, HELPER_TEXT_ON }}>
+  let wakeLock = null
+  const btn = document.getElementById('wake-lock-btn')
+  const descriptive_text = document.getElementById('cooking-mode-description')
 
   if (btn && 'wakeLock' in navigator) {
     btn.addEventListener('click', async () => {
       if (wakeLock) {
-        // Release the wake lock
         wakeLock.release()
         wakeLock = null
-        btn.textContent = 'Keep Screen Awake'
+        btn.textContent = BUTTON_TEXT_OFF
         btn.classList.remove('active')
+        descriptive_text.textContent = HELPER_TEXT_OFF
       } else {
         try {
-          // Request a wake lock
           wakeLock = await navigator.wakeLock.request('screen')
-          btn.textContent = 'Keeping Screen Awake'
+          btn.textContent = BUTTON_TEXT_ON
           btn.classList.add('active')
+          descriptive_text.textContent = HELPER_TEXT_ON
 
-          // Listen for when the wake lock is released
           wakeLock.addEventListener('release', () => {
             wakeLock = null
-            btn.textContent = 'Keep Screen Awake'
+            btn.textContent = BUTTON_TEXT_OFF
             btn.classList.remove('active')
+            descriptive_text.textContent = HELPER_TEXT_OFF
           })
         } catch (err) {
           console.error('Failed to request wake lock:', err)
-          alert(
-            'Failed to keep screen awake. This feature may not be supported on your device.'
-          )
         }
       }
     })
   } else if (btn) {
-    // Wake Lock API not supported
     btn.disabled = true
-    btn.textContent = 'Screen Wake Not Supported'
+    btn.textContent = 'Not Supported'
   }
 </script>
 
 <style>
+  .cooking-mode-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    margin-top: 1rem;
+  }
+
+  .cooking-mode-description {
+    font-size: 0.875rem;
+    color: #666;
+  }
+
   .wake-lock-btn {
     background: #6c757d;
     color: white;
@@ -54,8 +67,8 @@
     padding: 0.5rem 1rem;
     border-radius: 4px;
     cursor: pointer;
-    margin-top: 1rem;
     font-size: 1rem;
+    white-space: nowrap;
   }
 
   .wake-lock-btn:hover {
