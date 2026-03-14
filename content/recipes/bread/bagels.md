@@ -65,7 +65,6 @@ yield: '8 bagels'
 ## Tips
 
 - **Flour Choice**: Always use bread flour for bagels. Its high protein content is what provides the signature chewy texture.
-- **Yeast**: Ensure your water is between 100-110°F; if it is too hot, it will kill the yeast, and if it is too cold, the dough won't rise.
 - **Shine**: Do not skip the honey or barley malt syrup in the water bath, as it creates the distinct shiny, caramelized crust.
 - **Stickiness**: If the dough sticks to the parchment paper after boiling, sprinkle a little cornmeal on the parchment before placing the boiled bagels on it.
 
