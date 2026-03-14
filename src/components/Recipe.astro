@@ -2,7 +2,7 @@
 import Breadcrumbs from './Breadcrumbs.astro'
 import WakeLockButton from './WakeLockButton.astro'
 
-const { title, url, tags, description } = Astro.props
+const { title, url, tags, description, source } = Astro.props
 
 const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Recipes', href: '/recipes/' }, { label: title }]
 ---
@@ -27,7 +27,16 @@ const crumbs = [{ label: 'Home', href: '/recipes/' }, { label: 'Recipes', href: 
     }
   </nav>
 
-  <p>{description}</p>
+  <p>
+    {description}
+    {
+      source && (
+        <a href={source} target="_blank" rel="noreferrer">
+          Source
+        </a>
+      )
+    }
+  </p>
 
   <WakeLockButton />
 

@@ -3,7 +3,7 @@ title: 'Banana Bread'
 tags: [dessert]
 description: >
   This banana bread from Cook's Illustrated includes yogurt and walnuts for a scrumptiously moist, easy, classic, nutty quick bread. We consider it the best we've ever had.
-source: 'https://www.google.com/search?q=https://www.cooksillustrated.com/recipes/10857-banana-bread'
+source: 'https://www.cooksillustrated.com/recipes/10857-banana-bread'
 ---
 
 **Prep time**: 30 minutes
