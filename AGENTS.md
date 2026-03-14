@@ -1,3 +1,7 @@
+# About
+
+This repo is a recipe content blog that is written with Typescript + Astro.js
+
 # Style Guide
 
 - Run `yarn format` to auto-format the entire repo
