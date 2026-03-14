@@ -2,6 +2,14 @@
 import Search from 'astro-pagefind/components/Search'
 ---
 
-<nav>
+<nav class="search-wrapper">
   <Search id="search1" className="pagefind-ui" uiOptions={{ showImages: true }} />
 </nav>
+
+<style>
+  .search-wrapper {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 1rem;
+  }
+</style>
