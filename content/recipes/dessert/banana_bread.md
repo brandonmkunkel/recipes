@@ -15,7 +15,7 @@ yield: '10'
 - 2 cups unbleached all-purpose flour, plus more for the pan
 - 1 1/4 cups walnuts, coarsely chopped
 - 3/4 cup granulated sugar
-- 3/4 teaspoon baking soda
+- 1 teaspoon baking soda
 - 1/2 teaspoon salt
 - 4 very ripe, large-ish bananas with big black splotches, mashed well (1 1/2 cups)
 - 1/4 cup plain yogurt (preferably 2% or whole fat)
@@ -32,7 +32,7 @@ yield: '10'
 4. In a large bowl, combine the flour, sugar, baking soda, salt, and walnuts.
 5. In a medium bowl, stir the mashed bananas, yogurt, eggs, butter, and vanilla.
 6. Lightly fold the mashed banana mixture into the dry ingredients with a rubber spatula, mixing just until combined. The batter should be thick and sorta chunky. Scrape the batter into the prepared loaf pan.
-7. Bake the bread until the surface appears golden brown and a toothpick inserted in the center comes out clean, about 50-55 minutes.
+7. Bake the bread until the surface appears golden brown and a toothpick inserted in the center comes out clean, about 45-50 minutes.
 8. Cool the loaf in the pan on a wire rack for 5 minutes. Carefully tip the pan over so the loaf releases onto the wire rack and slice and serve the banana bread warm or let it cool completely, if you can stand the wait, and then devour.
 
 ## Tips
