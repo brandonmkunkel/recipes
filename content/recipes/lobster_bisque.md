@@ -1,6 +1,6 @@
 ---
 title: 'Lobster Bisque'
-tags: []
+tags: [soup]
 description: >
   Decadent lobster bisque, made with a quick homemade lobster stock and big chunks of garlic butter lobster meat in every bite.
 source: 'https://cafedelites.com/lobster-bisque/'
