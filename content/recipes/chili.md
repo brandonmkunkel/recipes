@@ -3,7 +3,6 @@ title: 'Chili'
 tags: []
 description: >
   A classic around our houseold, this chili recipe will feed you for days. It's packed with so much flavor that picky eaters won't even notice all the veggies.
-source: ''
 prepTime: '30 minutes'
 cookTime: '3 hours'
 totalTime: '3 hours 30 minutes'

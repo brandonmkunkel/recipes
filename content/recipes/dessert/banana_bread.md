@@ -3,7 +3,6 @@ title: 'Banana Bread'
 tags: [dessert]
 description: >
   This banana bread is inspired by some of the roadside Hawaiian banana breads that we had when we visited Maui in 2024. It's moist, nutty, and has a great banana flavor.
-source: ''
 prepTime: '30 minutes'
 cookTime: '1 hour'
 totalTime: '1 hour 30 minutes'
