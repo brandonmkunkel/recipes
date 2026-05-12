@@ -16,6 +16,14 @@ const basePath = import.meta.env.BASE_URL
     <meta name="description" content={description} />
     <title>{title}</title>
   </head>
+  <!-- Google tag (gtag.js) -->
+  <script is:inline async src="https://www.googletagmanager.com/gtag/js?id=G-X1CZBCLN1X"></script>
+  <script is:inline>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-X1CZBCLN1X');
+  </script>
   <body>
     <slot />
     <Footer />
