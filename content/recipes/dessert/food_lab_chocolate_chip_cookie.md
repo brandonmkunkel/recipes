@@ -1,5 +1,5 @@
 ---
-title: "Chocolate Chip Cookies (The Food Lab)"
+title: 'Chocolate Chip Cookies (The Food Lab)'
 tags: [dessert, cookies]
 description: >
   These cookies from J. Kenji López-Alt are deeply flavorful with nutty brown butter, gooey chocolate, and crisp edges. Chilling the dough develops a richer texture and taste—worth every minute of wait time.

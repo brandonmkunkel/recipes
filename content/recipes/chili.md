@@ -43,19 +43,17 @@ yield: '10 servings'
 - 2 tsp salt
 - optional: 2oz vermouth or 4oz beer
 
-
 ## Instructions
 
 1. Combine the ground meat mixture and set aside.
-3. In a large pot or dutch oven, cook onions, mushrooms, potato and bell pepper in an oil of your choice for 20 minutes and stir occasionally
-4. While the veggies are cooking, start cooking the ground meat mixture in a separate pan, stir occasionally until browned. You may have to scrape the browned bits off the bottom of the pan and stir them into the meat mixture.
-5. Once veggies are cooked, add the spices and cook with the veggies for 2 minute, stirring occasionally.
-6. Add ground meat mixture + additional meat to the pot with the veggies and stir to combine.
-7. Add the remaining ingredients to the pot, corn, beans, tomatoes, tomato sauce, molasses, vermouth/beer.
-8. Stir everything together and bring to a simmer.
-9. Reduce heat to low, cover, and let simmer for at least 2 hours, stirring occasionally.
-10. Serve and enjoy!
-
+2. In a large pot or dutch oven, cook onions, mushrooms, potato and bell pepper in an oil of your choice for 20 minutes and stir occasionally
+3. While the veggies are cooking, start cooking the ground meat mixture in a separate pan, stir occasionally until browned. You may have to scrape the browned bits off the bottom of the pan and stir them into the meat mixture.
+4. Once veggies are cooked, add the spices and cook with the veggies for 2 minute, stirring occasionally.
+5. Add ground meat mixture + additional meat to the pot with the veggies and stir to combine.
+6. Add the remaining ingredients to the pot, corn, beans, tomatoes, tomato sauce, molasses, vermouth/beer.
+7. Stir everything together and bring to a simmer.
+8. Reduce heat to low, cover, and let simmer for at least 2 hours, stirring occasionally.
+9. Serve and enjoy!
 
 ## Tips
 
