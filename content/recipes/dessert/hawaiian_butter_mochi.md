@@ -10,11 +10,6 @@ totalTime: '1 hour 10 minutes'
 yield: '24 servings'
 ---
 
-**Prep time**: 10 minutes
-**Cook time**: 1 hour
-**Total time**: 1 hour 10 minutes
-**Servings**: 24
-
 ## Ingredients
 
 - 1 16 oz box mochiko (Koda Farms)
