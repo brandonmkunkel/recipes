@@ -60,7 +60,6 @@ yield: '12 servings'
 
 1. Whip the heavy cream, powdered sugar, and vanilla until stiff peaks form.
 2. Smooth over the top of the cake and sprinkle with cinnamon.
-3. Serve with fresh sliced strawberries, if desired.
 
 ## Tips
 
@@ -71,3 +70,4 @@ yield: '12 servings'
 ## Modifications
 
 - Top with sliced strawberries or other fresh fruit.
+- Add flavors like matcha, ube, or chocolate, orange zest to the milk mixture or cake batter.
