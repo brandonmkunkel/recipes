@@ -5,6 +5,7 @@
   "editor.formatOnSave": true,
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "files.trimTrailingWhitespace": true,
+  "git.path": "/usr/bin/git",
 
   "prettier.semi": false,
   "prettier.singleQuote": true,
