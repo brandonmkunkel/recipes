@@ -5,15 +5,10 @@ description: >
   A very light sponge cake soaked in a sweet three-milk mixture, topped with fresh whipped cream and cinnamon.
 source: 'https://tastesbetterfromscratch.com/tres-leches-cake/'
 prepTime: '1 hour 30 minutes'
-cookTime: '40 minutes'
+cookTime: '35 minutes'
 totalTime: '2 hours 10 minutes'
 yield: '12 servings'
 ---
-
-**Prep time**: 1 hour 30 minutes
-**Cook time**: 40 minutes
-**Total time**: 2 hours 10 minutes
-**Servings**: 12
 
 ## Ingredients
 
