@@ -1,5 +1,5 @@
 ---
-title: 'Brioche (Le Cordon Bleu Paris)'
+title: 'Brioche'
 tags: [bread]
 description: >
   This "magical" brioche is well-known for its especially light, fluffy, and soft texture, which tastes like a hybrid between bread and cake. This authentic recipe, learned from Le Cordon Bleu Paris, features a rich butter content and a delicate aroma of vanilla and bergamot.
